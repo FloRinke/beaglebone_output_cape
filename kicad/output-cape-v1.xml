@@ -1,0 +1,2632 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<export version="D">
+  <design>
+    <source>/home/flo/Nextcloud/Projekte/2021/IoT/bb-output-cape/output-cape-v1/output-cape-v1.sch</source>
+    <date>Mo 14 Jun 2021 01:35:21 CEST</date>
+    <tool>Eeschema 5.1.10</tool>
+    <sheet number="1" name="/" tstamps="/">
+      <title_block>
+        <title/>
+        <company/>
+        <rev/>
+        <date/>
+        <source>output-cape-v1.sch</source>
+        <comment number="1" value=""/>
+        <comment number="2" value=""/>
+        <comment number="3" value=""/>
+        <comment number="4" value=""/>
+      </title_block>
+    </sheet>
+    <sheet number="2" name="/Out_Ch01/" tstamps="/60D5C75A/">
+      <title_block>
+        <title/>
+        <company/>
+        <rev/>
+        <date/>
+        <source>Out_Channel_direct.sch</source>
+        <comment number="1" value=""/>
+        <comment number="2" value=""/>
+        <comment number="3" value=""/>
+        <comment number="4" value=""/>
+      </title_block>
+    </sheet>
+    <sheet number="3" name="/Out_Ch02/" tstamps="/60C6B35F/">
+      <title_block>
+        <title/>
+        <company/>
+        <rev/>
+        <date/>
+        <source>Out_Channel_direct.sch</source>
+        <comment number="1" value=""/>
+        <comment number="2" value=""/>
+        <comment number="3" value=""/>
+        <comment number="4" value=""/>
+      </title_block>
+    </sheet>
+    <sheet number="4" name="/Out_Ch03/" tstamps="/60C6C244/">
+      <title_block>
+        <title/>
+        <company/>
+        <rev/>
+        <date/>
+        <source>Out_Channel_direct.sch</source>
+        <comment number="1" value=""/>
+        <comment number="2" value=""/>
+        <comment number="3" value=""/>
+        <comment number="4" value=""/>
+      </title_block>
+    </sheet>
+    <sheet number="5" name="/Out_Ch04/" tstamps="/60C6D129/">
+      <title_block>
+        <title/>
+        <company/>
+        <rev/>
+        <date/>
+        <source>Out_Channel_direct.sch</source>
+        <comment number="1" value=""/>
+        <comment number="2" value=""/>
+        <comment number="3" value=""/>
+        <comment number="4" value=""/>
+      </title_block>
+    </sheet>
+    <sheet number="6" name="/Out_Ch05/" tstamps="/60C6DFE1/">
+      <title_block>
+        <title/>
+        <company/>
+        <rev/>
+        <date/>
+        <source>Out_Channel_direct.sch</source>
+        <comment number="1" value=""/>
+        <comment number="2" value=""/>
+        <comment number="3" value=""/>
+        <comment number="4" value=""/>
+      </title_block>
+    </sheet>
+    <sheet number="7" name="/Out_Ch06/" tstamps="/60C6EEA8/">
+      <title_block>
+        <title/>
+        <company/>
+        <rev/>
+        <date/>
+        <source>Out_Channel_direct.sch</source>
+        <comment number="1" value=""/>
+        <comment number="2" value=""/>
+        <comment number="3" value=""/>
+        <comment number="4" value=""/>
+      </title_block>
+    </sheet>
+    <sheet number="8" name="/Out_Ch07/" tstamps="/60C6FD8A/">
+      <title_block>
+        <title/>
+        <company/>
+        <rev/>
+        <date/>
+        <source>Out_Channel_direct.sch</source>
+        <comment number="1" value=""/>
+        <comment number="2" value=""/>
+        <comment number="3" value=""/>
+        <comment number="4" value=""/>
+      </title_block>
+    </sheet>
+    <sheet number="9" name="/Out_Ch08/" tstamps="/60C70C2A/">
+      <title_block>
+        <title/>
+        <company/>
+        <rev/>
+        <date/>
+        <source>Out_Channel_direct.sch</source>
+        <comment number="1" value=""/>
+        <comment number="2" value=""/>
+        <comment number="3" value=""/>
+        <comment number="4" value=""/>
+      </title_block>
+    </sheet>
+    <sheet number="10" name="/Out_Ch09/" tstamps="/60C71B00/">
+      <title_block>
+        <title/>
+        <company/>
+        <rev/>
+        <date/>
+        <source>Out_Channel_direct.sch</source>
+        <comment number="1" value=""/>
+        <comment number="2" value=""/>
+        <comment number="3" value=""/>
+        <comment number="4" value=""/>
+      </title_block>
+    </sheet>
+    <sheet number="11" name="/Out_Ch10/" tstamps="/60C729CD/">
+      <title_block>
+        <title/>
+        <company/>
+        <rev/>
+        <date/>
+        <source>Out_Channel_direct.sch</source>
+        <comment number="1" value=""/>
+        <comment number="2" value=""/>
+        <comment number="3" value=""/>
+        <comment number="4" value=""/>
+      </title_block>
+    </sheet>
+    <sheet number="12" name="/Out_Ch11/" tstamps="/60C73870/">
+      <title_block>
+        <title/>
+        <company/>
+        <rev/>
+        <date/>
+        <source>Out_Channel_direct.sch</source>
+        <comment number="1" value=""/>
+        <comment number="2" value=""/>
+        <comment number="3" value=""/>
+        <comment number="4" value=""/>
+      </title_block>
+    </sheet>
+    <sheet number="13" name="/Out_Ch12/" tstamps="/60C74746/">
+      <title_block>
+        <title/>
+        <company/>
+        <rev/>
+        <date/>
+        <source>Out_Channel_direct.sch</source>
+        <comment number="1" value=""/>
+        <comment number="2" value=""/>
+        <comment number="3" value=""/>
+        <comment number="4" value=""/>
+      </title_block>
+    </sheet>
+    <sheet number="14" name="/Out_Ch13/" tstamps="/60CB4D84/">
+      <title_block>
+        <title/>
+        <company/>
+        <rev/>
+        <date/>
+        <source>Out_Channel_direct.sch</source>
+        <comment number="1" value=""/>
+        <comment number="2" value=""/>
+        <comment number="3" value=""/>
+        <comment number="4" value=""/>
+      </title_block>
+    </sheet>
+    <sheet number="15" name="/Out_Ch14/" tstamps="/60CB63C5/">
+      <title_block>
+        <title/>
+        <company/>
+        <rev/>
+        <date/>
+        <source>Out_Channel_direct.sch</source>
+        <comment number="1" value=""/>
+        <comment number="2" value=""/>
+        <comment number="3" value=""/>
+        <comment number="4" value=""/>
+      </title_block>
+    </sheet>
+    <sheet number="16" name="/Out_Ch15/" tstamps="/60CB7A97/">
+      <title_block>
+        <title/>
+        <company/>
+        <rev/>
+        <date/>
+        <source>Out_Channel_direct.sch</source>
+        <comment number="1" value=""/>
+        <comment number="2" value=""/>
+        <comment number="3" value=""/>
+        <comment number="4" value=""/>
+      </title_block>
+    </sheet>
+    <sheet number="17" name="/Out_Ch16/" tstamps="/60CB90EC/">
+      <title_block>
+        <title/>
+        <company/>
+        <rev/>
+        <date/>
+        <source>Out_Channel_direct.sch</source>
+        <comment number="1" value=""/>
+        <comment number="2" value=""/>
+        <comment number="3" value=""/>
+        <comment number="4" value=""/>
+      </title_block>
+    </sheet>
+  </design>
+  <components>
+    <comp ref="U103">
+      <value>BBB_P9</value>
+      <footprint>Connector_PinHeader_2.54mm:PinHeader_2x23_P2.54mm_Vertical_SMD</footprint>
+      <fields>
+        <field name="JLCPCB BOM">0</field>
+      </fields>
+      <libsource lib="FR" part="BeagleBoneBlack_P9_Back" description=""/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>60C4CCB7</tstamp>
+    </comp>
+    <comp ref="U102">
+      <value>AT24C256C-SSHL-T</value>
+      <footprint>Package_SO:SOIC-8_3.9x4.9mm_P1.27mm</footprint>
+      <datasheet>https://datasheet.lcsc.com/szlcsc/Microchip-Tech-AT24C256C-SSHL-T_C6482.pdf</datasheet>
+      <fields>
+        <field name="LCSC">C6482</field>
+      </fields>
+      <libsource lib="Memory_EEPROM" part="CAT24C256" description="256 kb CMOS Serial EEPROM, DIP-8/SOIC-8/TSSOP-8/DFN-8"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>60C6FD49</tstamp>
+    </comp>
+    <comp ref="R105">
+      <value>5.6k</value>
+      <footprint>Resistor_SMD:R_0402_1005Metric</footprint>
+      <datasheet>https://datasheet.lcsc.com/lcsc/1810301112_UNI-ROYAL-Uniroyal-Elec-0402WGF5601TCE_C25908.pdf</datasheet>
+      <fields>
+        <field name="LCSC">C25908</field>
+      </fields>
+      <libsource lib="Device" part="R_Small" description="Resistor, small symbol"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>60C73E5C</tstamp>
+    </comp>
+    <comp ref="R106">
+      <value>5.6k</value>
+      <footprint>Resistor_SMD:R_0402_1005Metric</footprint>
+      <datasheet>https://datasheet.lcsc.com/lcsc/1810301112_UNI-ROYAL-Uniroyal-Elec-0402WGF5601TCE_C25908.pdf</datasheet>
+      <fields>
+        <field name="LCSC">C25908</field>
+      </fields>
+      <libsource lib="Device" part="R_Small" description="Resistor, small symbol"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>60C747F8</tstamp>
+    </comp>
+    <comp ref="C104">
+      <value>100n</value>
+      <footprint>Capacitor_SMD:C_0603_1608Metric</footprint>
+      <datasheet>https://datasheet.lcsc.com/lcsc/1809301912_YAGEO-CC0603KRX7R9BB104_C14663.pdf</datasheet>
+      <fields>
+        <field name="LCSC">C14663</field>
+      </fields>
+      <libsource lib="Device" part="C_Small" description="Unpolarized capacitor, small symbol"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>60C79BE5</tstamp>
+    </comp>
+    <comp ref="JP103">
+      <value>A2</value>
+      <footprint>Connector_PinHeader_1.27mm:PinHeader_2x01_P1.27mm_Vertical_SMD</footprint>
+      <datasheet>~</datasheet>
+      <fields>
+        <field name="JLCPCB BOM">0</field>
+      </fields>
+      <libsource lib="Device" part="Jumper_NO_Small" description="Jumper, normally open, small symbol"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>60C83D17</tstamp>
+    </comp>
+    <comp ref="JP102">
+      <value>A1</value>
+      <footprint>Connector_PinHeader_1.27mm:PinHeader_2x01_P1.27mm_Vertical_SMD</footprint>
+      <datasheet>~</datasheet>
+      <fields>
+        <field name="JLCPCB BOM">0</field>
+      </fields>
+      <libsource lib="Device" part="Jumper_NO_Small" description="Jumper, normally open, small symbol"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>60C84177</tstamp>
+    </comp>
+    <comp ref="R107">
+      <value>5.6k</value>
+      <footprint>Resistor_SMD:R_0402_1005Metric</footprint>
+      <datasheet>https://datasheet.lcsc.com/lcsc/1810301112_UNI-ROYAL-Uniroyal-Elec-0402WGF5601TCE_C25908.pdf</datasheet>
+      <fields>
+        <field name="LCSC">C25908</field>
+      </fields>
+      <libsource lib="Device" part="R_Small" description="Resistor, small symbol"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>60C7CC0A</tstamp>
+    </comp>
+    <comp ref="R104">
+      <value>5.6k</value>
+      <footprint>Resistor_SMD:R_0402_1005Metric</footprint>
+      <datasheet>https://datasheet.lcsc.com/lcsc/1810301112_UNI-ROYAL-Uniroyal-Elec-0402WGF5601TCE_C25908.pdf</datasheet>
+      <fields>
+        <field name="LCSC">C25908</field>
+      </fields>
+      <libsource lib="Device" part="R_Small" description="Resistor, small symbol"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>60C7C85F</tstamp>
+    </comp>
+    <comp ref="R108">
+      <value>5.6k</value>
+      <footprint>Resistor_SMD:R_0402_1005Metric</footprint>
+      <datasheet>https://datasheet.lcsc.com/lcsc/1810301112_UNI-ROYAL-Uniroyal-Elec-0402WGF5601TCE_C25908.pdf</datasheet>
+      <fields>
+        <field name="LCSC">C25908</field>
+      </fields>
+      <libsource lib="Device" part="R_Small" description="Resistor, small symbol"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>60C7C170</tstamp>
+    </comp>
+    <comp ref="R109">
+      <value>5.6k</value>
+      <footprint>Resistor_SMD:R_0402_1005Metric</footprint>
+      <datasheet>https://datasheet.lcsc.com/lcsc/1810301112_UNI-ROYAL-Uniroyal-Elec-0402WGF5601TCE_C25908.pdf</datasheet>
+      <fields>
+        <field name="LCSC">C25908</field>
+      </fields>
+      <libsource lib="Device" part="R_Small" description="Resistor, small symbol"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>60CA4700</tstamp>
+    </comp>
+    <comp ref="TP102">
+      <value>WP</value>
+      <footprint>TestPoint:TestPoint_Keystone_5015_Micro-Minature</footprint>
+      <datasheet>~</datasheet>
+      <fields>
+        <field name="JLCPCB BOM">0</field>
+      </fields>
+      <libsource lib="Connector" part="TestPoint" description="test point"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>60CA632B</tstamp>
+    </comp>
+    <comp ref="J103">
+      <value>24V</value>
+      <footprint>Connector_Phoenix_MSTB:PhoenixContact_MSTBA_2,5_2-G_1x02_P5.00mm_Horizontal</footprint>
+      <datasheet>~</datasheet>
+      <fields>
+        <field name="JLCPCB BOM">0</field>
+      </fields>
+      <libsource lib="Connector" part="Screw_Terminal_01x02" description="Generic screw terminal, single row, 01x02, script generated (kicad-library-utils/schlib/autogen/connector/)"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>60C4B652</tstamp>
+    </comp>
+    <comp ref="H101">
+      <value>MountingHole_Pad</value>
+      <footprint>MountingHole:MountingHole_3.2mm_M3_ISO14580_Pad</footprint>
+      <datasheet>~</datasheet>
+      <fields>
+        <field name="JLCPCB BOM">0</field>
+      </fields>
+      <libsource lib="Mechanical" part="MountingHole_Pad" description="Mounting Hole with connection"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>60C74108</tstamp>
+    </comp>
+    <comp ref="H102">
+      <value>MountingHole_Pad</value>
+      <footprint>MountingHole:MountingHole_3.2mm_M3_ISO14580_Pad</footprint>
+      <datasheet>~</datasheet>
+      <fields>
+        <field name="JLCPCB BOM">0</field>
+      </fields>
+      <libsource lib="Mechanical" part="MountingHole_Pad" description="Mounting Hole with connection"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>60C7473B</tstamp>
+    </comp>
+    <comp ref="H103">
+      <value>MountingHole_Pad</value>
+      <footprint>MountingHole:MountingHole_3.2mm_M3_ISO14580_Pad</footprint>
+      <datasheet>~</datasheet>
+      <fields>
+        <field name="JLCPCB BOM">0</field>
+      </fields>
+      <libsource lib="Mechanical" part="MountingHole_Pad" description="Mounting Hole with connection"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>60C748F9</tstamp>
+    </comp>
+    <comp ref="H104">
+      <value>MountingHole_Pad</value>
+      <footprint>MountingHole:MountingHole_3.2mm_M3_ISO14580_Pad</footprint>
+      <datasheet>~</datasheet>
+      <fields>
+        <field name="JLCPCB BOM">0</field>
+      </fields>
+      <libsource lib="Mechanical" part="MountingHole_Pad" description="Mounting Hole with connection"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>60C74AEB</tstamp>
+    </comp>
+    <comp ref="J101">
+      <value>Conn_01x16_Female</value>
+      <footprint>Connector_Phoenix_MC:PhoenixContact_MC_1,5_16-G-3.5_1x16_P3.50mm_Horizontal</footprint>
+      <datasheet>~</datasheet>
+      <fields>
+        <field name="JLCPCB BOM">0</field>
+      </fields>
+      <libsource lib="Connector" part="Conn_01x16_Female" description="Generic connector, single row, 01x16, script generated (kicad-library-utils/schlib/autogen/connector/)"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>60CB0240</tstamp>
+    </comp>
+    <comp ref="J102">
+      <value>Conn_01x16_Female</value>
+      <footprint>Connector_Phoenix_MC:PhoenixContact_MC_1,5_16-G-3.5_1x16_P3.50mm_Horizontal</footprint>
+      <datasheet>~</datasheet>
+      <fields>
+        <field name="JLCPCB BOM">0</field>
+      </fields>
+      <libsource lib="Connector" part="Conn_01x16_Female" description="Generic connector, single row, 01x16, script generated (kicad-library-utils/schlib/autogen/connector/)"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>60CB0DF9</tstamp>
+    </comp>
+    <comp ref="U104">
+      <value>BBB_P8</value>
+      <footprint>Connector_PinHeader_2.54mm:PinHeader_2x23_P2.54mm_Vertical_SMD</footprint>
+      <fields>
+        <field name="JLCPCB BOM">0</field>
+      </fields>
+      <libsource lib="FR" part="BeagleBoneBlack_P8_Back" description=""/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>60C49085</tstamp>
+    </comp>
+    <comp ref="U101">
+      <value>LM317_TO-252</value>
+      <footprint>Package_TO_SOT_SMD:TO-252-2</footprint>
+      <datasheet>https://datasheet.lcsc.com/lcsc/1810271112_UTC-Unisonic-Tech-LM317AG-TN3-R_C75510.pdf</datasheet>
+      <fields>
+        <field name="LCSC">C75510</field>
+      </fields>
+      <libsource lib="Regulator_Linear" part="LM317_TO-252" description="1.5A 35V Adjustable Linear Regulator, TO-252"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>60DC6016</tstamp>
+    </comp>
+    <comp ref="D101">
+      <value>SM4007</value>
+      <footprint>Diode_SMD:D_SOD-123F</footprint>
+      <datasheet>http://cdn-reichelt.de/documents/datenblatt/A400/SMD1N400%23DIO.pdf</datasheet>
+      <libsource lib="Diode" part="SM4007" description="1000V 1A General Purpose Rectifier Diode, MELF"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>60DC707F</tstamp>
+    </comp>
+    <comp ref="D102">
+      <value>SM4007</value>
+      <footprint>Diode_SMD:D_SOD-123F</footprint>
+      <datasheet>http://cdn-reichelt.de/documents/datenblatt/A400/SMD1N400%23DIO.pdf</datasheet>
+      <libsource lib="Diode" part="SM4007" description="1000V 1A General Purpose Rectifier Diode, MELF"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>60DC7AF6</tstamp>
+    </comp>
+    <comp ref="R101">
+      <value>240</value>
+      <footprint>Resistor_SMD:R_0603_1608Metric</footprint>
+      <datasheet>https://datasheet.lcsc.com/lcsc/1811021221_UNI-ROYAL-Uniroyal-Elec-0603WAF2400T5E_C23350.pdf</datasheet>
+      <fields>
+        <field name="LCSC">C23350</field>
+      </fields>
+      <libsource lib="Device" part="R_Small" description="Resistor, small symbol"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>60DC92D1</tstamp>
+    </comp>
+    <comp ref="R103">
+      <value>820</value>
+      <footprint>Resistor_SMD:R_0603_1608Metric</footprint>
+      <datasheet>https://datasheet.lcsc.com/lcsc/1811081716_UNI-ROYAL-Uniroyal-Elec-0603WAF8200T5E_C23253.pdf</datasheet>
+      <fields>
+        <field name="LCSC">C23253</field>
+      </fields>
+      <libsource lib="Device" part="R_Small" description="Resistor, small symbol"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>60DC9637</tstamp>
+    </comp>
+    <comp ref="C101">
+      <value>100n</value>
+      <footprint>Capacitor_SMD:C_0603_1608Metric</footprint>
+      <datasheet>https://datasheet.lcsc.com/lcsc/1809301912_YAGEO-CC0603KRX7R9BB104_C14663.pdf</datasheet>
+      <fields>
+        <field name="LCSC">C14663</field>
+      </fields>
+      <libsource lib="Device" part="C_Small" description="Unpolarized capacitor, small symbol"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>60DC9A38</tstamp>
+    </comp>
+    <comp ref="C102">
+      <value>10u</value>
+      <footprint>Capacitor_SMD:C_0402_1005Metric</footprint>
+      <datasheet>https://datasheet.lcsc.com/lcsc/1810191215_Samsung-Electro-Mechanics-CL05A106MQ5NUNC_C15525.pdf</datasheet>
+      <fields>
+        <field name="LCSC">C15525</field>
+      </fields>
+      <libsource lib="Device" part="C_Small" description="Unpolarized capacitor, small symbol"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>60DC9B6D</tstamp>
+    </comp>
+    <comp ref="R102">
+      <value>5.6k</value>
+      <footprint>Resistor_SMD:R_0402_1005Metric</footprint>
+      <datasheet>https://datasheet.lcsc.com/lcsc/1810301112_UNI-ROYAL-Uniroyal-Elec-0402WGF5601TCE_C25908.pdf</datasheet>
+      <fields>
+        <field name="LCSC">C25908</field>
+      </fields>
+      <libsource lib="Device" part="R_Small" description="Resistor, small symbol"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>60E0489A</tstamp>
+    </comp>
+    <comp ref="C103">
+      <value>10u</value>
+      <footprint>Capacitor_SMD:C_0402_1005Metric</footprint>
+      <datasheet>https://datasheet.lcsc.com/lcsc/1810191215_Samsung-Electro-Mechanics-CL05A106MQ5NUNC_C15525.pdf</datasheet>
+      <fields>
+        <field name="LCSC">C15525</field>
+      </fields>
+      <libsource lib="Device" part="C_Small" description="Unpolarized capacitor, small symbol"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>60E233F6</tstamp>
+    </comp>
+    <comp ref="D103">
+      <value>B5819W</value>
+      <footprint>Diode_SMD:D_SOD-123</footprint>
+      <datasheet>https://datasheet.lcsc.com/lcsc/1809140216_Changjiang-Electronics-Tech-CJ-B5819W_C8598.pdf</datasheet>
+      <fields>
+        <field name="LCSC">C8598</field>
+      </fields>
+      <libsource lib="Device" part="D_Small" description="Diode, small symbol"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>60E85251</tstamp>
+    </comp>
+    <comp ref="F101">
+      <value>750mA</value>
+      <footprint>Fuse:Fuse_1812_4532Metric_Castellated</footprint>
+      <datasheet>https://datasheet.lcsc.com/lcsc/1809211111_RUILON-Shenzhen-Ruilongyuan-Elec-SMD1812P075TF-24_C12557.pdf</datasheet>
+      <fields>
+        <field name="LCSC">C12557</field>
+      </fields>
+      <libsource lib="Device" part="Polyfuse_Small" description="Resettable fuse, polymeric positive temperature coefficient, small symbol"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>60E94EE2</tstamp>
+    </comp>
+    <comp ref="JP101">
+      <value>PWR</value>
+      <footprint>Connector_PinHeader_1.27mm:PinHeader_1x02_P1.27mm_Vertical</footprint>
+      <datasheet>~</datasheet>
+      <fields>
+        <field name="JLCPCB BOM">0</field>
+      </fields>
+      <libsource lib="Device" part="Jumper_NO_Small" description="Jumper, normally open, small symbol"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>60EBE797</tstamp>
+    </comp>
+    <comp ref="TP103">
+      <value>SCL</value>
+      <footprint>TestPoint:TestPoint_Keystone_5015_Micro-Minature</footprint>
+      <datasheet>~</datasheet>
+      <fields>
+        <field name="JLCPCB BOM">0</field>
+      </fields>
+      <libsource lib="Connector" part="TestPoint" description="test point"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>60F2C53D</tstamp>
+    </comp>
+    <comp ref="TP104">
+      <value>SDA</value>
+      <footprint>TestPoint:TestPoint_Keystone_5015_Micro-Minature</footprint>
+      <datasheet>~</datasheet>
+      <fields>
+        <field name="JLCPCB BOM">0</field>
+      </fields>
+      <libsource lib="Connector" part="TestPoint" description="test point"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>60F2CCC5</tstamp>
+    </comp>
+    <comp ref="TP105">
+      <value>24V</value>
+      <footprint>TestPoint:TestPoint_Keystone_5015_Micro-Minature</footprint>
+      <datasheet>~</datasheet>
+      <fields>
+        <field name="JLCPCB BOM">0</field>
+      </fields>
+      <libsource lib="Connector" part="TestPoint" description="test point"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>60F75BA2</tstamp>
+    </comp>
+    <comp ref="TP106">
+      <value>GND</value>
+      <footprint>TestPoint:TestPoint_Keystone_5015_Micro-Minature</footprint>
+      <datasheet>~</datasheet>
+      <fields>
+        <field name="JLCPCB BOM">0</field>
+      </fields>
+      <libsource lib="Connector" part="TestPoint" description="test point"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>60F77E75</tstamp>
+    </comp>
+    <comp ref="TP101">
+      <value>5V</value>
+      <footprint>TestPoint:TestPoint_Keystone_5015_Micro-Minature</footprint>
+      <datasheet>~</datasheet>
+      <fields>
+        <field name="JLCPCB BOM">0</field>
+      </fields>
+      <libsource lib="Connector" part="TestPoint" description="test point"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>60F7CED9</tstamp>
+    </comp>
+    <comp ref="Q201">
+      <value>2N7002</value>
+      <footprint>Package_TO_SOT_SMD:SOT-23</footprint>
+      <datasheet>https://www.onsemi.com/pub/Collateral/NDS7002A-D.PDF</datasheet>
+      <fields>
+        <field name="LCSC">C8545</field>
+      </fields>
+      <libsource lib="Transistor_FET" part="2N7002" description="0.115A Id, 60V Vds, N-Channel MOSFET, SOT-23"/>
+      <sheetpath names="/Out_Ch01/" tstamps="/60D5C75A/"/>
+      <tstamp>60D6486C</tstamp>
+    </comp>
+    <comp ref="R202">
+      <value>47k</value>
+      <footprint>Resistor_SMD:R_0402_1005Metric</footprint>
+      <datasheet>https://datasheet.lcsc.com/lcsc/1809101632_UNI-ROYAL-Uniroyal-Elec-0402WGF4702TCE_C25792.pdf</datasheet>
+      <fields>
+        <field name="LCSC">C25792</field>
+      </fields>
+      <libsource lib="Device" part="R_Small" description="Resistor, small symbol"/>
+      <sheetpath names="/Out_Ch01/" tstamps="/60D5C75A/"/>
+      <tstamp>60D64897</tstamp>
+    </comp>
+    <comp ref="R201">
+      <value>120</value>
+      <footprint>Resistor_SMD:R_0402_1005Metric</footprint>
+      <datasheet>https://datasheet.lcsc.com/szlcsc/Uniroyal-Elec-0402WGF499JTCE_C25120.pdf</datasheet>
+      <fields>
+        <field name="LCSC">C25120</field>
+      </fields>
+      <libsource lib="Device" part="R_Small" description="Resistor, small symbol"/>
+      <sheetpath names="/Out_Ch01/" tstamps="/60D5C75A/"/>
+      <tstamp>60D648D3</tstamp>
+    </comp>
+    <comp ref="D201">
+      <value>LED</value>
+      <footprint>LED_SMD:LED_0603_1608Metric</footprint>
+      <datasheet>https://datasheet.lcsc.com/lcsc/1811101510_Everlight-Elec-19-217-GHC-YR1S2-3T_C72043.pdf</datasheet>
+      <fields>
+        <field name="LCSC">C72043</field>
+      </fields>
+      <libsource lib="Device" part="LED_Small" description="Light emitting diode, small symbol"/>
+      <sheetpath names="/Out_Ch01/" tstamps="/60D5C75A/"/>
+      <tstamp>60D8582A</tstamp>
+    </comp>
+    <comp ref="R203">
+      <value>5.6k</value>
+      <footprint>Resistor_SMD:R_0402_1005Metric</footprint>
+      <datasheet>https://datasheet.lcsc.com/lcsc/1810301112_UNI-ROYAL-Uniroyal-Elec-0402WGF5601TCE_C25908.pdf</datasheet>
+      <fields>
+        <field name="LCSC">C25908</field>
+      </fields>
+      <libsource lib="Device" part="R_Small" description="Resistor, small symbol"/>
+      <sheetpath names="/Out_Ch01/" tstamps="/60D5C75A/"/>
+      <tstamp>60D8BF21</tstamp>
+    </comp>
+    <comp ref="Q301">
+      <value>2N7002</value>
+      <footprint>Package_TO_SOT_SMD:SOT-23</footprint>
+      <datasheet>https://www.onsemi.com/pub/Collateral/NDS7002A-D.PDF</datasheet>
+      <fields>
+        <field name="LCSC">C8545</field>
+      </fields>
+      <libsource lib="Transistor_FET" part="2N7002" description="0.115A Id, 60V Vds, N-Channel MOSFET, SOT-23"/>
+      <sheetpath names="/Out_Ch02/" tstamps="/60C6B35F/"/>
+      <tstamp>60D6486C</tstamp>
+    </comp>
+    <comp ref="R302">
+      <value>47k</value>
+      <footprint>Resistor_SMD:R_0402_1005Metric</footprint>
+      <datasheet>https://datasheet.lcsc.com/lcsc/1809101632_UNI-ROYAL-Uniroyal-Elec-0402WGF4702TCE_C25792.pdf</datasheet>
+      <fields>
+        <field name="LCSC">C25792</field>
+      </fields>
+      <libsource lib="Device" part="R_Small" description="Resistor, small symbol"/>
+      <sheetpath names="/Out_Ch02/" tstamps="/60C6B35F/"/>
+      <tstamp>60D64897</tstamp>
+    </comp>
+    <comp ref="R301">
+      <value>120</value>
+      <footprint>Resistor_SMD:R_0402_1005Metric</footprint>
+      <datasheet>https://datasheet.lcsc.com/szlcsc/Uniroyal-Elec-0402WGF499JTCE_C25120.pdf</datasheet>
+      <fields>
+        <field name="LCSC">C25120</field>
+      </fields>
+      <libsource lib="Device" part="R_Small" description="Resistor, small symbol"/>
+      <sheetpath names="/Out_Ch02/" tstamps="/60C6B35F/"/>
+      <tstamp>60D648D3</tstamp>
+    </comp>
+    <comp ref="D301">
+      <value>LED</value>
+      <footprint>LED_SMD:LED_0603_1608Metric</footprint>
+      <datasheet>https://datasheet.lcsc.com/lcsc/1811101510_Everlight-Elec-19-217-GHC-YR1S2-3T_C72043.pdf</datasheet>
+      <fields>
+        <field name="LCSC">C72043</field>
+      </fields>
+      <libsource lib="Device" part="LED_Small" description="Light emitting diode, small symbol"/>
+      <sheetpath names="/Out_Ch02/" tstamps="/60C6B35F/"/>
+      <tstamp>60D8582A</tstamp>
+    </comp>
+    <comp ref="R303">
+      <value>5.6k</value>
+      <footprint>Resistor_SMD:R_0402_1005Metric</footprint>
+      <datasheet>https://datasheet.lcsc.com/lcsc/1810301112_UNI-ROYAL-Uniroyal-Elec-0402WGF5601TCE_C25908.pdf</datasheet>
+      <fields>
+        <field name="LCSC">C25908</field>
+      </fields>
+      <libsource lib="Device" part="R_Small" description="Resistor, small symbol"/>
+      <sheetpath names="/Out_Ch02/" tstamps="/60C6B35F/"/>
+      <tstamp>60D8BF21</tstamp>
+    </comp>
+    <comp ref="Q401">
+      <value>2N7002</value>
+      <footprint>Package_TO_SOT_SMD:SOT-23</footprint>
+      <datasheet>https://www.onsemi.com/pub/Collateral/NDS7002A-D.PDF</datasheet>
+      <fields>
+        <field name="LCSC">C8545</field>
+      </fields>
+      <libsource lib="Transistor_FET" part="2N7002" description="0.115A Id, 60V Vds, N-Channel MOSFET, SOT-23"/>
+      <sheetpath names="/Out_Ch03/" tstamps="/60C6C244/"/>
+      <tstamp>60D6486C</tstamp>
+    </comp>
+    <comp ref="R402">
+      <value>47k</value>
+      <footprint>Resistor_SMD:R_0402_1005Metric</footprint>
+      <datasheet>https://datasheet.lcsc.com/lcsc/1809101632_UNI-ROYAL-Uniroyal-Elec-0402WGF4702TCE_C25792.pdf</datasheet>
+      <fields>
+        <field name="LCSC">C25792</field>
+      </fields>
+      <libsource lib="Device" part="R_Small" description="Resistor, small symbol"/>
+      <sheetpath names="/Out_Ch03/" tstamps="/60C6C244/"/>
+      <tstamp>60D64897</tstamp>
+    </comp>
+    <comp ref="R401">
+      <value>120</value>
+      <footprint>Resistor_SMD:R_0402_1005Metric</footprint>
+      <datasheet>https://datasheet.lcsc.com/szlcsc/Uniroyal-Elec-0402WGF499JTCE_C25120.pdf</datasheet>
+      <fields>
+        <field name="LCSC">C25120</field>
+      </fields>
+      <libsource lib="Device" part="R_Small" description="Resistor, small symbol"/>
+      <sheetpath names="/Out_Ch03/" tstamps="/60C6C244/"/>
+      <tstamp>60D648D3</tstamp>
+    </comp>
+    <comp ref="D401">
+      <value>LED</value>
+      <footprint>LED_SMD:LED_0603_1608Metric</footprint>
+      <datasheet>https://datasheet.lcsc.com/lcsc/1811101510_Everlight-Elec-19-217-GHC-YR1S2-3T_C72043.pdf</datasheet>
+      <fields>
+        <field name="LCSC">C72043</field>
+      </fields>
+      <libsource lib="Device" part="LED_Small" description="Light emitting diode, small symbol"/>
+      <sheetpath names="/Out_Ch03/" tstamps="/60C6C244/"/>
+      <tstamp>60D8582A</tstamp>
+    </comp>
+    <comp ref="R403">
+      <value>5.6k</value>
+      <footprint>Resistor_SMD:R_0402_1005Metric</footprint>
+      <datasheet>https://datasheet.lcsc.com/lcsc/1810301112_UNI-ROYAL-Uniroyal-Elec-0402WGF5601TCE_C25908.pdf</datasheet>
+      <fields>
+        <field name="LCSC">C25908</field>
+      </fields>
+      <libsource lib="Device" part="R_Small" description="Resistor, small symbol"/>
+      <sheetpath names="/Out_Ch03/" tstamps="/60C6C244/"/>
+      <tstamp>60D8BF21</tstamp>
+    </comp>
+    <comp ref="Q501">
+      <value>2N7002</value>
+      <footprint>Package_TO_SOT_SMD:SOT-23</footprint>
+      <datasheet>https://www.onsemi.com/pub/Collateral/NDS7002A-D.PDF</datasheet>
+      <fields>
+        <field name="LCSC">C8545</field>
+      </fields>
+      <libsource lib="Transistor_FET" part="2N7002" description="0.115A Id, 60V Vds, N-Channel MOSFET, SOT-23"/>
+      <sheetpath names="/Out_Ch04/" tstamps="/60C6D129/"/>
+      <tstamp>60D6486C</tstamp>
+    </comp>
+    <comp ref="R502">
+      <value>47k</value>
+      <footprint>Resistor_SMD:R_0402_1005Metric</footprint>
+      <datasheet>https://datasheet.lcsc.com/lcsc/1809101632_UNI-ROYAL-Uniroyal-Elec-0402WGF4702TCE_C25792.pdf</datasheet>
+      <fields>
+        <field name="LCSC">C25792</field>
+      </fields>
+      <libsource lib="Device" part="R_Small" description="Resistor, small symbol"/>
+      <sheetpath names="/Out_Ch04/" tstamps="/60C6D129/"/>
+      <tstamp>60D64897</tstamp>
+    </comp>
+    <comp ref="R501">
+      <value>120</value>
+      <footprint>Resistor_SMD:R_0402_1005Metric</footprint>
+      <datasheet>https://datasheet.lcsc.com/szlcsc/Uniroyal-Elec-0402WGF499JTCE_C25120.pdf</datasheet>
+      <fields>
+        <field name="LCSC">C25120</field>
+      </fields>
+      <libsource lib="Device" part="R_Small" description="Resistor, small symbol"/>
+      <sheetpath names="/Out_Ch04/" tstamps="/60C6D129/"/>
+      <tstamp>60D648D3</tstamp>
+    </comp>
+    <comp ref="D501">
+      <value>LED</value>
+      <footprint>LED_SMD:LED_0603_1608Metric</footprint>
+      <datasheet>https://datasheet.lcsc.com/lcsc/1811101510_Everlight-Elec-19-217-GHC-YR1S2-3T_C72043.pdf</datasheet>
+      <fields>
+        <field name="LCSC">C72043</field>
+      </fields>
+      <libsource lib="Device" part="LED_Small" description="Light emitting diode, small symbol"/>
+      <sheetpath names="/Out_Ch04/" tstamps="/60C6D129/"/>
+      <tstamp>60D8582A</tstamp>
+    </comp>
+    <comp ref="R503">
+      <value>5.6k</value>
+      <footprint>Resistor_SMD:R_0402_1005Metric</footprint>
+      <datasheet>https://datasheet.lcsc.com/lcsc/1810301112_UNI-ROYAL-Uniroyal-Elec-0402WGF5601TCE_C25908.pdf</datasheet>
+      <fields>
+        <field name="LCSC">C25908</field>
+      </fields>
+      <libsource lib="Device" part="R_Small" description="Resistor, small symbol"/>
+      <sheetpath names="/Out_Ch04/" tstamps="/60C6D129/"/>
+      <tstamp>60D8BF21</tstamp>
+    </comp>
+    <comp ref="Q601">
+      <value>2N7002</value>
+      <footprint>Package_TO_SOT_SMD:SOT-23</footprint>
+      <datasheet>https://www.onsemi.com/pub/Collateral/NDS7002A-D.PDF</datasheet>
+      <fields>
+        <field name="LCSC">C8545</field>
+      </fields>
+      <libsource lib="Transistor_FET" part="2N7002" description="0.115A Id, 60V Vds, N-Channel MOSFET, SOT-23"/>
+      <sheetpath names="/Out_Ch05/" tstamps="/60C6DFE1/"/>
+      <tstamp>60D6486C</tstamp>
+    </comp>
+    <comp ref="R602">
+      <value>47k</value>
+      <footprint>Resistor_SMD:R_0402_1005Metric</footprint>
+      <datasheet>https://datasheet.lcsc.com/lcsc/1809101632_UNI-ROYAL-Uniroyal-Elec-0402WGF4702TCE_C25792.pdf</datasheet>
+      <fields>
+        <field name="LCSC">C25792</field>
+      </fields>
+      <libsource lib="Device" part="R_Small" description="Resistor, small symbol"/>
+      <sheetpath names="/Out_Ch05/" tstamps="/60C6DFE1/"/>
+      <tstamp>60D64897</tstamp>
+    </comp>
+    <comp ref="R601">
+      <value>120</value>
+      <footprint>Resistor_SMD:R_0402_1005Metric</footprint>
+      <datasheet>https://datasheet.lcsc.com/szlcsc/Uniroyal-Elec-0402WGF499JTCE_C25120.pdf</datasheet>
+      <fields>
+        <field name="LCSC">C25120</field>
+      </fields>
+      <libsource lib="Device" part="R_Small" description="Resistor, small symbol"/>
+      <sheetpath names="/Out_Ch05/" tstamps="/60C6DFE1/"/>
+      <tstamp>60D648D3</tstamp>
+    </comp>
+    <comp ref="D601">
+      <value>LED</value>
+      <footprint>LED_SMD:LED_0603_1608Metric</footprint>
+      <datasheet>https://datasheet.lcsc.com/lcsc/1811101510_Everlight-Elec-19-217-GHC-YR1S2-3T_C72043.pdf</datasheet>
+      <fields>
+        <field name="LCSC">C72043</field>
+      </fields>
+      <libsource lib="Device" part="LED_Small" description="Light emitting diode, small symbol"/>
+      <sheetpath names="/Out_Ch05/" tstamps="/60C6DFE1/"/>
+      <tstamp>60D8582A</tstamp>
+    </comp>
+    <comp ref="R603">
+      <value>5.6k</value>
+      <footprint>Resistor_SMD:R_0402_1005Metric</footprint>
+      <datasheet>https://datasheet.lcsc.com/lcsc/1810301112_UNI-ROYAL-Uniroyal-Elec-0402WGF5601TCE_C25908.pdf</datasheet>
+      <fields>
+        <field name="LCSC">C25908</field>
+      </fields>
+      <libsource lib="Device" part="R_Small" description="Resistor, small symbol"/>
+      <sheetpath names="/Out_Ch05/" tstamps="/60C6DFE1/"/>
+      <tstamp>60D8BF21</tstamp>
+    </comp>
+    <comp ref="Q701">
+      <value>2N7002</value>
+      <footprint>Package_TO_SOT_SMD:SOT-23</footprint>
+      <datasheet>https://www.onsemi.com/pub/Collateral/NDS7002A-D.PDF</datasheet>
+      <fields>
+        <field name="LCSC">C8545</field>
+      </fields>
+      <libsource lib="Transistor_FET" part="2N7002" description="0.115A Id, 60V Vds, N-Channel MOSFET, SOT-23"/>
+      <sheetpath names="/Out_Ch06/" tstamps="/60C6EEA8/"/>
+      <tstamp>60D6486C</tstamp>
+    </comp>
+    <comp ref="R702">
+      <value>47k</value>
+      <footprint>Resistor_SMD:R_0402_1005Metric</footprint>
+      <datasheet>https://datasheet.lcsc.com/lcsc/1809101632_UNI-ROYAL-Uniroyal-Elec-0402WGF4702TCE_C25792.pdf</datasheet>
+      <fields>
+        <field name="LCSC">C25792</field>
+      </fields>
+      <libsource lib="Device" part="R_Small" description="Resistor, small symbol"/>
+      <sheetpath names="/Out_Ch06/" tstamps="/60C6EEA8/"/>
+      <tstamp>60D64897</tstamp>
+    </comp>
+    <comp ref="R701">
+      <value>120</value>
+      <footprint>Resistor_SMD:R_0402_1005Metric</footprint>
+      <datasheet>https://datasheet.lcsc.com/szlcsc/Uniroyal-Elec-0402WGF499JTCE_C25120.pdf</datasheet>
+      <fields>
+        <field name="LCSC">C25120</field>
+      </fields>
+      <libsource lib="Device" part="R_Small" description="Resistor, small symbol"/>
+      <sheetpath names="/Out_Ch06/" tstamps="/60C6EEA8/"/>
+      <tstamp>60D648D3</tstamp>
+    </comp>
+    <comp ref="D701">
+      <value>LED</value>
+      <footprint>LED_SMD:LED_0603_1608Metric</footprint>
+      <datasheet>https://datasheet.lcsc.com/lcsc/1811101510_Everlight-Elec-19-217-GHC-YR1S2-3T_C72043.pdf</datasheet>
+      <fields>
+        <field name="LCSC">C72043</field>
+      </fields>
+      <libsource lib="Device" part="LED_Small" description="Light emitting diode, small symbol"/>
+      <sheetpath names="/Out_Ch06/" tstamps="/60C6EEA8/"/>
+      <tstamp>60D8582A</tstamp>
+    </comp>
+    <comp ref="R703">
+      <value>5.6k</value>
+      <footprint>Resistor_SMD:R_0402_1005Metric</footprint>
+      <datasheet>https://datasheet.lcsc.com/lcsc/1810301112_UNI-ROYAL-Uniroyal-Elec-0402WGF5601TCE_C25908.pdf</datasheet>
+      <fields>
+        <field name="LCSC">C25908</field>
+      </fields>
+      <libsource lib="Device" part="R_Small" description="Resistor, small symbol"/>
+      <sheetpath names="/Out_Ch06/" tstamps="/60C6EEA8/"/>
+      <tstamp>60D8BF21</tstamp>
+    </comp>
+    <comp ref="Q801">
+      <value>2N7002</value>
+      <footprint>Package_TO_SOT_SMD:SOT-23</footprint>
+      <datasheet>https://www.onsemi.com/pub/Collateral/NDS7002A-D.PDF</datasheet>
+      <fields>
+        <field name="LCSC">C8545</field>
+      </fields>
+      <libsource lib="Transistor_FET" part="2N7002" description="0.115A Id, 60V Vds, N-Channel MOSFET, SOT-23"/>
+      <sheetpath names="/Out_Ch07/" tstamps="/60C6FD8A/"/>
+      <tstamp>60D6486C</tstamp>
+    </comp>
+    <comp ref="R802">
+      <value>47k</value>
+      <footprint>Resistor_SMD:R_0402_1005Metric</footprint>
+      <datasheet>https://datasheet.lcsc.com/lcsc/1809101632_UNI-ROYAL-Uniroyal-Elec-0402WGF4702TCE_C25792.pdf</datasheet>
+      <fields>
+        <field name="LCSC">C25792</field>
+      </fields>
+      <libsource lib="Device" part="R_Small" description="Resistor, small symbol"/>
+      <sheetpath names="/Out_Ch07/" tstamps="/60C6FD8A/"/>
+      <tstamp>60D64897</tstamp>
+    </comp>
+    <comp ref="R801">
+      <value>120</value>
+      <footprint>Resistor_SMD:R_0402_1005Metric</footprint>
+      <datasheet>https://datasheet.lcsc.com/szlcsc/Uniroyal-Elec-0402WGF499JTCE_C25120.pdf</datasheet>
+      <fields>
+        <field name="LCSC">C25120</field>
+      </fields>
+      <libsource lib="Device" part="R_Small" description="Resistor, small symbol"/>
+      <sheetpath names="/Out_Ch07/" tstamps="/60C6FD8A/"/>
+      <tstamp>60D648D3</tstamp>
+    </comp>
+    <comp ref="D801">
+      <value>LED</value>
+      <footprint>LED_SMD:LED_0603_1608Metric</footprint>
+      <datasheet>https://datasheet.lcsc.com/lcsc/1811101510_Everlight-Elec-19-217-GHC-YR1S2-3T_C72043.pdf</datasheet>
+      <fields>
+        <field name="LCSC">C72043</field>
+      </fields>
+      <libsource lib="Device" part="LED_Small" description="Light emitting diode, small symbol"/>
+      <sheetpath names="/Out_Ch07/" tstamps="/60C6FD8A/"/>
+      <tstamp>60D8582A</tstamp>
+    </comp>
+    <comp ref="R803">
+      <value>5.6k</value>
+      <footprint>Resistor_SMD:R_0402_1005Metric</footprint>
+      <datasheet>https://datasheet.lcsc.com/lcsc/1810301112_UNI-ROYAL-Uniroyal-Elec-0402WGF5601TCE_C25908.pdf</datasheet>
+      <fields>
+        <field name="LCSC">C25908</field>
+      </fields>
+      <libsource lib="Device" part="R_Small" description="Resistor, small symbol"/>
+      <sheetpath names="/Out_Ch07/" tstamps="/60C6FD8A/"/>
+      <tstamp>60D8BF21</tstamp>
+    </comp>
+    <comp ref="Q901">
+      <value>2N7002</value>
+      <footprint>Package_TO_SOT_SMD:SOT-23</footprint>
+      <datasheet>https://www.onsemi.com/pub/Collateral/NDS7002A-D.PDF</datasheet>
+      <fields>
+        <field name="LCSC">C8545</field>
+      </fields>
+      <libsource lib="Transistor_FET" part="2N7002" description="0.115A Id, 60V Vds, N-Channel MOSFET, SOT-23"/>
+      <sheetpath names="/Out_Ch08/" tstamps="/60C70C2A/"/>
+      <tstamp>60D6486C</tstamp>
+    </comp>
+    <comp ref="R902">
+      <value>47k</value>
+      <footprint>Resistor_SMD:R_0402_1005Metric</footprint>
+      <datasheet>https://datasheet.lcsc.com/lcsc/1809101632_UNI-ROYAL-Uniroyal-Elec-0402WGF4702TCE_C25792.pdf</datasheet>
+      <fields>
+        <field name="LCSC">C25792</field>
+      </fields>
+      <libsource lib="Device" part="R_Small" description="Resistor, small symbol"/>
+      <sheetpath names="/Out_Ch08/" tstamps="/60C70C2A/"/>
+      <tstamp>60D64897</tstamp>
+    </comp>
+    <comp ref="R901">
+      <value>120</value>
+      <footprint>Resistor_SMD:R_0402_1005Metric</footprint>
+      <datasheet>https://datasheet.lcsc.com/szlcsc/Uniroyal-Elec-0402WGF499JTCE_C25120.pdf</datasheet>
+      <fields>
+        <field name="LCSC">C25120</field>
+      </fields>
+      <libsource lib="Device" part="R_Small" description="Resistor, small symbol"/>
+      <sheetpath names="/Out_Ch08/" tstamps="/60C70C2A/"/>
+      <tstamp>60D648D3</tstamp>
+    </comp>
+    <comp ref="D901">
+      <value>LED</value>
+      <footprint>LED_SMD:LED_0603_1608Metric</footprint>
+      <datasheet>https://datasheet.lcsc.com/lcsc/1811101510_Everlight-Elec-19-217-GHC-YR1S2-3T_C72043.pdf</datasheet>
+      <fields>
+        <field name="LCSC">C72043</field>
+      </fields>
+      <libsource lib="Device" part="LED_Small" description="Light emitting diode, small symbol"/>
+      <sheetpath names="/Out_Ch08/" tstamps="/60C70C2A/"/>
+      <tstamp>60D8582A</tstamp>
+    </comp>
+    <comp ref="R903">
+      <value>5.6k</value>
+      <footprint>Resistor_SMD:R_0402_1005Metric</footprint>
+      <datasheet>https://datasheet.lcsc.com/lcsc/1810301112_UNI-ROYAL-Uniroyal-Elec-0402WGF5601TCE_C25908.pdf</datasheet>
+      <fields>
+        <field name="LCSC">C25908</field>
+      </fields>
+      <libsource lib="Device" part="R_Small" description="Resistor, small symbol"/>
+      <sheetpath names="/Out_Ch08/" tstamps="/60C70C2A/"/>
+      <tstamp>60D8BF21</tstamp>
+    </comp>
+    <comp ref="Q1001">
+      <value>2N7002</value>
+      <footprint>Package_TO_SOT_SMD:SOT-23</footprint>
+      <datasheet>https://www.onsemi.com/pub/Collateral/NDS7002A-D.PDF</datasheet>
+      <fields>
+        <field name="LCSC">C8545</field>
+      </fields>
+      <libsource lib="Transistor_FET" part="2N7002" description="0.115A Id, 60V Vds, N-Channel MOSFET, SOT-23"/>
+      <sheetpath names="/Out_Ch09/" tstamps="/60C71B00/"/>
+      <tstamp>60D6486C</tstamp>
+    </comp>
+    <comp ref="R1002">
+      <value>47k</value>
+      <footprint>Resistor_SMD:R_0402_1005Metric</footprint>
+      <datasheet>https://datasheet.lcsc.com/lcsc/1809101632_UNI-ROYAL-Uniroyal-Elec-0402WGF4702TCE_C25792.pdf</datasheet>
+      <fields>
+        <field name="LCSC">C25792</field>
+      </fields>
+      <libsource lib="Device" part="R_Small" description="Resistor, small symbol"/>
+      <sheetpath names="/Out_Ch09/" tstamps="/60C71B00/"/>
+      <tstamp>60D64897</tstamp>
+    </comp>
+    <comp ref="R1001">
+      <value>120</value>
+      <footprint>Resistor_SMD:R_0402_1005Metric</footprint>
+      <datasheet>https://datasheet.lcsc.com/szlcsc/Uniroyal-Elec-0402WGF499JTCE_C25120.pdf</datasheet>
+      <fields>
+        <field name="LCSC">C25120</field>
+      </fields>
+      <libsource lib="Device" part="R_Small" description="Resistor, small symbol"/>
+      <sheetpath names="/Out_Ch09/" tstamps="/60C71B00/"/>
+      <tstamp>60D648D3</tstamp>
+    </comp>
+    <comp ref="D1001">
+      <value>LED</value>
+      <footprint>LED_SMD:LED_0603_1608Metric</footprint>
+      <datasheet>https://datasheet.lcsc.com/lcsc/1811101510_Everlight-Elec-19-217-GHC-YR1S2-3T_C72043.pdf</datasheet>
+      <fields>
+        <field name="LCSC">C72043</field>
+      </fields>
+      <libsource lib="Device" part="LED_Small" description="Light emitting diode, small symbol"/>
+      <sheetpath names="/Out_Ch09/" tstamps="/60C71B00/"/>
+      <tstamp>60D8582A</tstamp>
+    </comp>
+    <comp ref="R1003">
+      <value>5.6k</value>
+      <footprint>Resistor_SMD:R_0402_1005Metric</footprint>
+      <datasheet>https://datasheet.lcsc.com/lcsc/1810301112_UNI-ROYAL-Uniroyal-Elec-0402WGF5601TCE_C25908.pdf</datasheet>
+      <fields>
+        <field name="LCSC">C25908</field>
+      </fields>
+      <libsource lib="Device" part="R_Small" description="Resistor, small symbol"/>
+      <sheetpath names="/Out_Ch09/" tstamps="/60C71B00/"/>
+      <tstamp>60D8BF21</tstamp>
+    </comp>
+    <comp ref="Q1101">
+      <value>2N7002</value>
+      <footprint>Package_TO_SOT_SMD:SOT-23</footprint>
+      <datasheet>https://www.onsemi.com/pub/Collateral/NDS7002A-D.PDF</datasheet>
+      <fields>
+        <field name="LCSC">C8545</field>
+      </fields>
+      <libsource lib="Transistor_FET" part="2N7002" description="0.115A Id, 60V Vds, N-Channel MOSFET, SOT-23"/>
+      <sheetpath names="/Out_Ch10/" tstamps="/60C729CD/"/>
+      <tstamp>60D6486C</tstamp>
+    </comp>
+    <comp ref="R1102">
+      <value>47k</value>
+      <footprint>Resistor_SMD:R_0402_1005Metric</footprint>
+      <datasheet>https://datasheet.lcsc.com/lcsc/1809101632_UNI-ROYAL-Uniroyal-Elec-0402WGF4702TCE_C25792.pdf</datasheet>
+      <fields>
+        <field name="LCSC">C25792</field>
+      </fields>
+      <libsource lib="Device" part="R_Small" description="Resistor, small symbol"/>
+      <sheetpath names="/Out_Ch10/" tstamps="/60C729CD/"/>
+      <tstamp>60D64897</tstamp>
+    </comp>
+    <comp ref="R1101">
+      <value>120</value>
+      <footprint>Resistor_SMD:R_0402_1005Metric</footprint>
+      <datasheet>https://datasheet.lcsc.com/szlcsc/Uniroyal-Elec-0402WGF499JTCE_C25120.pdf</datasheet>
+      <fields>
+        <field name="LCSC">C25120</field>
+      </fields>
+      <libsource lib="Device" part="R_Small" description="Resistor, small symbol"/>
+      <sheetpath names="/Out_Ch10/" tstamps="/60C729CD/"/>
+      <tstamp>60D648D3</tstamp>
+    </comp>
+    <comp ref="D1101">
+      <value>LED</value>
+      <footprint>LED_SMD:LED_0603_1608Metric</footprint>
+      <datasheet>https://datasheet.lcsc.com/lcsc/1811101510_Everlight-Elec-19-217-GHC-YR1S2-3T_C72043.pdf</datasheet>
+      <fields>
+        <field name="LCSC">C72043</field>
+      </fields>
+      <libsource lib="Device" part="LED_Small" description="Light emitting diode, small symbol"/>
+      <sheetpath names="/Out_Ch10/" tstamps="/60C729CD/"/>
+      <tstamp>60D8582A</tstamp>
+    </comp>
+    <comp ref="R1103">
+      <value>5.6k</value>
+      <footprint>Resistor_SMD:R_0402_1005Metric</footprint>
+      <datasheet>https://datasheet.lcsc.com/lcsc/1810301112_UNI-ROYAL-Uniroyal-Elec-0402WGF5601TCE_C25908.pdf</datasheet>
+      <fields>
+        <field name="LCSC">C25908</field>
+      </fields>
+      <libsource lib="Device" part="R_Small" description="Resistor, small symbol"/>
+      <sheetpath names="/Out_Ch10/" tstamps="/60C729CD/"/>
+      <tstamp>60D8BF21</tstamp>
+    </comp>
+    <comp ref="Q1201">
+      <value>2N7002</value>
+      <footprint>Package_TO_SOT_SMD:SOT-23</footprint>
+      <datasheet>https://www.onsemi.com/pub/Collateral/NDS7002A-D.PDF</datasheet>
+      <fields>
+        <field name="LCSC">C8545</field>
+      </fields>
+      <libsource lib="Transistor_FET" part="2N7002" description="0.115A Id, 60V Vds, N-Channel MOSFET, SOT-23"/>
+      <sheetpath names="/Out_Ch11/" tstamps="/60C73870/"/>
+      <tstamp>60D6486C</tstamp>
+    </comp>
+    <comp ref="R1202">
+      <value>47k</value>
+      <footprint>Resistor_SMD:R_0402_1005Metric</footprint>
+      <datasheet>https://datasheet.lcsc.com/lcsc/1809101632_UNI-ROYAL-Uniroyal-Elec-0402WGF4702TCE_C25792.pdf</datasheet>
+      <fields>
+        <field name="LCSC">C25792</field>
+      </fields>
+      <libsource lib="Device" part="R_Small" description="Resistor, small symbol"/>
+      <sheetpath names="/Out_Ch11/" tstamps="/60C73870/"/>
+      <tstamp>60D64897</tstamp>
+    </comp>
+    <comp ref="R1201">
+      <value>120</value>
+      <footprint>Resistor_SMD:R_0402_1005Metric</footprint>
+      <datasheet>https://datasheet.lcsc.com/szlcsc/Uniroyal-Elec-0402WGF499JTCE_C25120.pdf</datasheet>
+      <fields>
+        <field name="LCSC">C25120</field>
+      </fields>
+      <libsource lib="Device" part="R_Small" description="Resistor, small symbol"/>
+      <sheetpath names="/Out_Ch11/" tstamps="/60C73870/"/>
+      <tstamp>60D648D3</tstamp>
+    </comp>
+    <comp ref="D1201">
+      <value>LED</value>
+      <footprint>LED_SMD:LED_0603_1608Metric</footprint>
+      <datasheet>https://datasheet.lcsc.com/lcsc/1811101510_Everlight-Elec-19-217-GHC-YR1S2-3T_C72043.pdf</datasheet>
+      <fields>
+        <field name="LCSC">C72043</field>
+      </fields>
+      <libsource lib="Device" part="LED_Small" description="Light emitting diode, small symbol"/>
+      <sheetpath names="/Out_Ch11/" tstamps="/60C73870/"/>
+      <tstamp>60D8582A</tstamp>
+    </comp>
+    <comp ref="R1203">
+      <value>5.6k</value>
+      <footprint>Resistor_SMD:R_0402_1005Metric</footprint>
+      <datasheet>https://datasheet.lcsc.com/lcsc/1810301112_UNI-ROYAL-Uniroyal-Elec-0402WGF5601TCE_C25908.pdf</datasheet>
+      <fields>
+        <field name="LCSC">C25908</field>
+      </fields>
+      <libsource lib="Device" part="R_Small" description="Resistor, small symbol"/>
+      <sheetpath names="/Out_Ch11/" tstamps="/60C73870/"/>
+      <tstamp>60D8BF21</tstamp>
+    </comp>
+    <comp ref="Q1301">
+      <value>2N7002</value>
+      <footprint>Package_TO_SOT_SMD:SOT-23</footprint>
+      <datasheet>https://www.onsemi.com/pub/Collateral/NDS7002A-D.PDF</datasheet>
+      <fields>
+        <field name="LCSC">C8545</field>
+      </fields>
+      <libsource lib="Transistor_FET" part="2N7002" description="0.115A Id, 60V Vds, N-Channel MOSFET, SOT-23"/>
+      <sheetpath names="/Out_Ch12/" tstamps="/60C74746/"/>
+      <tstamp>60D6486C</tstamp>
+    </comp>
+    <comp ref="R1302">
+      <value>47k</value>
+      <footprint>Resistor_SMD:R_0402_1005Metric</footprint>
+      <datasheet>https://datasheet.lcsc.com/lcsc/1809101632_UNI-ROYAL-Uniroyal-Elec-0402WGF4702TCE_C25792.pdf</datasheet>
+      <fields>
+        <field name="LCSC">C25792</field>
+      </fields>
+      <libsource lib="Device" part="R_Small" description="Resistor, small symbol"/>
+      <sheetpath names="/Out_Ch12/" tstamps="/60C74746/"/>
+      <tstamp>60D64897</tstamp>
+    </comp>
+    <comp ref="R1301">
+      <value>120</value>
+      <footprint>Resistor_SMD:R_0402_1005Metric</footprint>
+      <datasheet>https://datasheet.lcsc.com/szlcsc/Uniroyal-Elec-0402WGF499JTCE_C25120.pdf</datasheet>
+      <fields>
+        <field name="LCSC">C25120</field>
+      </fields>
+      <libsource lib="Device" part="R_Small" description="Resistor, small symbol"/>
+      <sheetpath names="/Out_Ch12/" tstamps="/60C74746/"/>
+      <tstamp>60D648D3</tstamp>
+    </comp>
+    <comp ref="D1301">
+      <value>LED</value>
+      <footprint>LED_SMD:LED_0603_1608Metric</footprint>
+      <datasheet>https://datasheet.lcsc.com/lcsc/1811101510_Everlight-Elec-19-217-GHC-YR1S2-3T_C72043.pdf</datasheet>
+      <fields>
+        <field name="LCSC">C72043</field>
+      </fields>
+      <libsource lib="Device" part="LED_Small" description="Light emitting diode, small symbol"/>
+      <sheetpath names="/Out_Ch12/" tstamps="/60C74746/"/>
+      <tstamp>60D8582A</tstamp>
+    </comp>
+    <comp ref="R1303">
+      <value>5.6k</value>
+      <footprint>Resistor_SMD:R_0402_1005Metric</footprint>
+      <datasheet>https://datasheet.lcsc.com/lcsc/1810301112_UNI-ROYAL-Uniroyal-Elec-0402WGF5601TCE_C25908.pdf</datasheet>
+      <fields>
+        <field name="LCSC">C25908</field>
+      </fields>
+      <libsource lib="Device" part="R_Small" description="Resistor, small symbol"/>
+      <sheetpath names="/Out_Ch12/" tstamps="/60C74746/"/>
+      <tstamp>60D8BF21</tstamp>
+    </comp>
+    <comp ref="Q1401">
+      <value>2N7002</value>
+      <footprint>Package_TO_SOT_SMD:SOT-23</footprint>
+      <datasheet>https://www.onsemi.com/pub/Collateral/NDS7002A-D.PDF</datasheet>
+      <fields>
+        <field name="LCSC">C8545</field>
+      </fields>
+      <libsource lib="Transistor_FET" part="2N7002" description="0.115A Id, 60V Vds, N-Channel MOSFET, SOT-23"/>
+      <sheetpath names="/Out_Ch13/" tstamps="/60CB4D84/"/>
+      <tstamp>60D6486C</tstamp>
+    </comp>
+    <comp ref="R1402">
+      <value>47k</value>
+      <footprint>Resistor_SMD:R_0402_1005Metric</footprint>
+      <datasheet>https://datasheet.lcsc.com/lcsc/1809101632_UNI-ROYAL-Uniroyal-Elec-0402WGF4702TCE_C25792.pdf</datasheet>
+      <fields>
+        <field name="LCSC">C25792</field>
+      </fields>
+      <libsource lib="Device" part="R_Small" description="Resistor, small symbol"/>
+      <sheetpath names="/Out_Ch13/" tstamps="/60CB4D84/"/>
+      <tstamp>60D64897</tstamp>
+    </comp>
+    <comp ref="R1401">
+      <value>120</value>
+      <footprint>Resistor_SMD:R_0402_1005Metric</footprint>
+      <datasheet>https://datasheet.lcsc.com/szlcsc/Uniroyal-Elec-0402WGF499JTCE_C25120.pdf</datasheet>
+      <fields>
+        <field name="LCSC">C25120</field>
+      </fields>
+      <libsource lib="Device" part="R_Small" description="Resistor, small symbol"/>
+      <sheetpath names="/Out_Ch13/" tstamps="/60CB4D84/"/>
+      <tstamp>60D648D3</tstamp>
+    </comp>
+    <comp ref="D1401">
+      <value>LED</value>
+      <footprint>LED_SMD:LED_0603_1608Metric</footprint>
+      <datasheet>https://datasheet.lcsc.com/lcsc/1811101510_Everlight-Elec-19-217-GHC-YR1S2-3T_C72043.pdf</datasheet>
+      <fields>
+        <field name="LCSC">C72043</field>
+      </fields>
+      <libsource lib="Device" part="LED_Small" description="Light emitting diode, small symbol"/>
+      <sheetpath names="/Out_Ch13/" tstamps="/60CB4D84/"/>
+      <tstamp>60D8582A</tstamp>
+    </comp>
+    <comp ref="R1403">
+      <value>5.6k</value>
+      <footprint>Resistor_SMD:R_0402_1005Metric</footprint>
+      <datasheet>https://datasheet.lcsc.com/lcsc/1810301112_UNI-ROYAL-Uniroyal-Elec-0402WGF5601TCE_C25908.pdf</datasheet>
+      <fields>
+        <field name="LCSC">C25908</field>
+      </fields>
+      <libsource lib="Device" part="R_Small" description="Resistor, small symbol"/>
+      <sheetpath names="/Out_Ch13/" tstamps="/60CB4D84/"/>
+      <tstamp>60D8BF21</tstamp>
+    </comp>
+    <comp ref="Q1501">
+      <value>2N7002</value>
+      <footprint>Package_TO_SOT_SMD:SOT-23</footprint>
+      <datasheet>https://www.onsemi.com/pub/Collateral/NDS7002A-D.PDF</datasheet>
+      <fields>
+        <field name="LCSC">C8545</field>
+      </fields>
+      <libsource lib="Transistor_FET" part="2N7002" description="0.115A Id, 60V Vds, N-Channel MOSFET, SOT-23"/>
+      <sheetpath names="/Out_Ch14/" tstamps="/60CB63C5/"/>
+      <tstamp>60D6486C</tstamp>
+    </comp>
+    <comp ref="R1502">
+      <value>47k</value>
+      <footprint>Resistor_SMD:R_0402_1005Metric</footprint>
+      <datasheet>https://datasheet.lcsc.com/lcsc/1809101632_UNI-ROYAL-Uniroyal-Elec-0402WGF4702TCE_C25792.pdf</datasheet>
+      <fields>
+        <field name="LCSC">C25792</field>
+      </fields>
+      <libsource lib="Device" part="R_Small" description="Resistor, small symbol"/>
+      <sheetpath names="/Out_Ch14/" tstamps="/60CB63C5/"/>
+      <tstamp>60D64897</tstamp>
+    </comp>
+    <comp ref="R1501">
+      <value>120</value>
+      <footprint>Resistor_SMD:R_0402_1005Metric</footprint>
+      <datasheet>https://datasheet.lcsc.com/szlcsc/Uniroyal-Elec-0402WGF499JTCE_C25120.pdf</datasheet>
+      <fields>
+        <field name="LCSC">C25120</field>
+      </fields>
+      <libsource lib="Device" part="R_Small" description="Resistor, small symbol"/>
+      <sheetpath names="/Out_Ch14/" tstamps="/60CB63C5/"/>
+      <tstamp>60D648D3</tstamp>
+    </comp>
+    <comp ref="D1501">
+      <value>LED</value>
+      <footprint>LED_SMD:LED_0603_1608Metric</footprint>
+      <datasheet>https://datasheet.lcsc.com/lcsc/1811101510_Everlight-Elec-19-217-GHC-YR1S2-3T_C72043.pdf</datasheet>
+      <fields>
+        <field name="LCSC">C72043</field>
+      </fields>
+      <libsource lib="Device" part="LED_Small" description="Light emitting diode, small symbol"/>
+      <sheetpath names="/Out_Ch14/" tstamps="/60CB63C5/"/>
+      <tstamp>60D8582A</tstamp>
+    </comp>
+    <comp ref="R1503">
+      <value>5.6k</value>
+      <footprint>Resistor_SMD:R_0402_1005Metric</footprint>
+      <datasheet>https://datasheet.lcsc.com/lcsc/1810301112_UNI-ROYAL-Uniroyal-Elec-0402WGF5601TCE_C25908.pdf</datasheet>
+      <fields>
+        <field name="LCSC">C25908</field>
+      </fields>
+      <libsource lib="Device" part="R_Small" description="Resistor, small symbol"/>
+      <sheetpath names="/Out_Ch14/" tstamps="/60CB63C5/"/>
+      <tstamp>60D8BF21</tstamp>
+    </comp>
+    <comp ref="Q1601">
+      <value>2N7002</value>
+      <footprint>Package_TO_SOT_SMD:SOT-23</footprint>
+      <datasheet>https://www.onsemi.com/pub/Collateral/NDS7002A-D.PDF</datasheet>
+      <fields>
+        <field name="LCSC">C8545</field>
+      </fields>
+      <libsource lib="Transistor_FET" part="2N7002" description="0.115A Id, 60V Vds, N-Channel MOSFET, SOT-23"/>
+      <sheetpath names="/Out_Ch15/" tstamps="/60CB7A97/"/>
+      <tstamp>60D6486C</tstamp>
+    </comp>
+    <comp ref="R1602">
+      <value>47k</value>
+      <footprint>Resistor_SMD:R_0402_1005Metric</footprint>
+      <datasheet>https://datasheet.lcsc.com/lcsc/1809101632_UNI-ROYAL-Uniroyal-Elec-0402WGF4702TCE_C25792.pdf</datasheet>
+      <fields>
+        <field name="LCSC">C25792</field>
+      </fields>
+      <libsource lib="Device" part="R_Small" description="Resistor, small symbol"/>
+      <sheetpath names="/Out_Ch15/" tstamps="/60CB7A97/"/>
+      <tstamp>60D64897</tstamp>
+    </comp>
+    <comp ref="R1601">
+      <value>120</value>
+      <footprint>Resistor_SMD:R_0402_1005Metric</footprint>
+      <datasheet>https://datasheet.lcsc.com/szlcsc/Uniroyal-Elec-0402WGF499JTCE_C25120.pdf</datasheet>
+      <fields>
+        <field name="LCSC">C25120</field>
+      </fields>
+      <libsource lib="Device" part="R_Small" description="Resistor, small symbol"/>
+      <sheetpath names="/Out_Ch15/" tstamps="/60CB7A97/"/>
+      <tstamp>60D648D3</tstamp>
+    </comp>
+    <comp ref="D1601">
+      <value>LED</value>
+      <footprint>LED_SMD:LED_0603_1608Metric</footprint>
+      <datasheet>https://datasheet.lcsc.com/lcsc/1811101510_Everlight-Elec-19-217-GHC-YR1S2-3T_C72043.pdf</datasheet>
+      <fields>
+        <field name="LCSC">C72043</field>
+      </fields>
+      <libsource lib="Device" part="LED_Small" description="Light emitting diode, small symbol"/>
+      <sheetpath names="/Out_Ch15/" tstamps="/60CB7A97/"/>
+      <tstamp>60D8582A</tstamp>
+    </comp>
+    <comp ref="R1603">
+      <value>5.6k</value>
+      <footprint>Resistor_SMD:R_0402_1005Metric</footprint>
+      <datasheet>https://datasheet.lcsc.com/lcsc/1810301112_UNI-ROYAL-Uniroyal-Elec-0402WGF5601TCE_C25908.pdf</datasheet>
+      <fields>
+        <field name="LCSC">C25908</field>
+      </fields>
+      <libsource lib="Device" part="R_Small" description="Resistor, small symbol"/>
+      <sheetpath names="/Out_Ch15/" tstamps="/60CB7A97/"/>
+      <tstamp>60D8BF21</tstamp>
+    </comp>
+    <comp ref="Q1701">
+      <value>2N7002</value>
+      <footprint>Package_TO_SOT_SMD:SOT-23</footprint>
+      <datasheet>https://www.onsemi.com/pub/Collateral/NDS7002A-D.PDF</datasheet>
+      <fields>
+        <field name="LCSC">C8545</field>
+      </fields>
+      <libsource lib="Transistor_FET" part="2N7002" description="0.115A Id, 60V Vds, N-Channel MOSFET, SOT-23"/>
+      <sheetpath names="/Out_Ch16/" tstamps="/60CB90EC/"/>
+      <tstamp>60D6486C</tstamp>
+    </comp>
+    <comp ref="R1702">
+      <value>47k</value>
+      <footprint>Resistor_SMD:R_0402_1005Metric</footprint>
+      <datasheet>https://datasheet.lcsc.com/lcsc/1809101632_UNI-ROYAL-Uniroyal-Elec-0402WGF4702TCE_C25792.pdf</datasheet>
+      <fields>
+        <field name="LCSC">C25792</field>
+      </fields>
+      <libsource lib="Device" part="R_Small" description="Resistor, small symbol"/>
+      <sheetpath names="/Out_Ch16/" tstamps="/60CB90EC/"/>
+      <tstamp>60D64897</tstamp>
+    </comp>
+    <comp ref="R1701">
+      <value>120</value>
+      <footprint>Resistor_SMD:R_0402_1005Metric</footprint>
+      <datasheet>https://datasheet.lcsc.com/szlcsc/Uniroyal-Elec-0402WGF499JTCE_C25120.pdf</datasheet>
+      <fields>
+        <field name="LCSC">C25120</field>
+      </fields>
+      <libsource lib="Device" part="R_Small" description="Resistor, small symbol"/>
+      <sheetpath names="/Out_Ch16/" tstamps="/60CB90EC/"/>
+      <tstamp>60D648D3</tstamp>
+    </comp>
+    <comp ref="D1701">
+      <value>LED</value>
+      <footprint>LED_SMD:LED_0603_1608Metric</footprint>
+      <datasheet>https://datasheet.lcsc.com/lcsc/1811101510_Everlight-Elec-19-217-GHC-YR1S2-3T_C72043.pdf</datasheet>
+      <fields>
+        <field name="LCSC">C72043</field>
+      </fields>
+      <libsource lib="Device" part="LED_Small" description="Light emitting diode, small symbol"/>
+      <sheetpath names="/Out_Ch16/" tstamps="/60CB90EC/"/>
+      <tstamp>60D8582A</tstamp>
+    </comp>
+    <comp ref="R1703">
+      <value>5.6k</value>
+      <footprint>Resistor_SMD:R_0402_1005Metric</footprint>
+      <datasheet>https://datasheet.lcsc.com/lcsc/1810301112_UNI-ROYAL-Uniroyal-Elec-0402WGF5601TCE_C25908.pdf</datasheet>
+      <fields>
+        <field name="LCSC">C25908</field>
+      </fields>
+      <libsource lib="Device" part="R_Small" description="Resistor, small symbol"/>
+      <sheetpath names="/Out_Ch16/" tstamps="/60CB90EC/"/>
+      <tstamp>60D8BF21</tstamp>
+    </comp>
+  </components>
+  <libparts>
+    <libpart lib="Connector" part="Conn_01x16_Female">
+      <description>Generic connector, single row, 01x16, script generated (kicad-library-utils/schlib/autogen/connector/)</description>
+      <docs>~</docs>
+      <footprints>
+        <fp>Connector*:*_1x??_*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">J</field>
+        <field name="Value">Conn_01x16_Female</field>
+      </fields>
+      <pins>
+        <pin num="1" name="Pin_1" type="passive"/>
+        <pin num="2" name="Pin_2" type="passive"/>
+        <pin num="3" name="Pin_3" type="passive"/>
+        <pin num="4" name="Pin_4" type="passive"/>
+        <pin num="5" name="Pin_5" type="passive"/>
+        <pin num="6" name="Pin_6" type="passive"/>
+        <pin num="7" name="Pin_7" type="passive"/>
+        <pin num="8" name="Pin_8" type="passive"/>
+        <pin num="9" name="Pin_9" type="passive"/>
+        <pin num="10" name="Pin_10" type="passive"/>
+        <pin num="11" name="Pin_11" type="passive"/>
+        <pin num="12" name="Pin_12" type="passive"/>
+        <pin num="13" name="Pin_13" type="passive"/>
+        <pin num="14" name="Pin_14" type="passive"/>
+        <pin num="15" name="Pin_15" type="passive"/>
+        <pin num="16" name="Pin_16" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="Connector" part="Screw_Terminal_01x02">
+      <description>Generic screw terminal, single row, 01x02, script generated (kicad-library-utils/schlib/autogen/connector/)</description>
+      <docs>~</docs>
+      <footprints>
+        <fp>TerminalBlock*:*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">J</field>
+        <field name="Value">Screw_Terminal_01x02</field>
+      </fields>
+      <pins>
+        <pin num="1" name="Pin_1" type="passive"/>
+        <pin num="2" name="Pin_2" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="Connector" part="TestPoint">
+      <description>test point</description>
+      <docs>~</docs>
+      <footprints>
+        <fp>Pin*</fp>
+        <fp>Test*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">TP</field>
+        <field name="Value">TestPoint</field>
+      </fields>
+      <pins>
+        <pin num="1" name="1" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="Device" part="C_Small">
+      <description>Unpolarized capacitor, small symbol</description>
+      <docs>~</docs>
+      <footprints>
+        <fp>C_*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">C</field>
+        <field name="Value">C_Small</field>
+      </fields>
+      <pins>
+        <pin num="1" name="~" type="passive"/>
+        <pin num="2" name="~" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="Device" part="D_Small">
+      <description>Diode, small symbol</description>
+      <docs>~</docs>
+      <footprints>
+        <fp>TO-???*</fp>
+        <fp>*_Diode_*</fp>
+        <fp>*SingleDiode*</fp>
+        <fp>D_*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">D</field>
+        <field name="Value">D_Small</field>
+      </fields>
+      <pins>
+        <pin num="1" name="K" type="passive"/>
+        <pin num="2" name="A" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="Device" part="Jumper_NO_Small">
+      <description>Jumper, normally open, small symbol</description>
+      <docs>~</docs>
+      <footprints>
+        <fp>SolderJumper*Open*</fp>
+        <fp>Jumper*</fp>
+        <fp>TestPoint*2Pads*</fp>
+        <fp>TestPoint*Bridge*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">JP</field>
+        <field name="Value">Jumper_NO_Small</field>
+      </fields>
+      <pins>
+        <pin num="1" name="1" type="passive"/>
+        <pin num="2" name="2" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="Device" part="LED_Small">
+      <description>Light emitting diode, small symbol</description>
+      <docs>~</docs>
+      <footprints>
+        <fp>LED*</fp>
+        <fp>LED_SMD:*</fp>
+        <fp>LED_THT:*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">D</field>
+        <field name="Value">LED_Small</field>
+      </fields>
+      <pins>
+        <pin num="1" name="K" type="passive"/>
+        <pin num="2" name="A" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="Device" part="Polyfuse_Small">
+      <description>Resettable fuse, polymeric positive temperature coefficient, small symbol</description>
+      <docs>~</docs>
+      <footprints>
+        <fp>*polyfuse*</fp>
+        <fp>*PTC*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">F</field>
+        <field name="Value">Polyfuse_Small</field>
+      </fields>
+      <pins>
+        <pin num="1" name="~" type="passive"/>
+        <pin num="2" name="~" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="Device" part="R_Small">
+      <description>Resistor, small symbol</description>
+      <docs>~</docs>
+      <footprints>
+        <fp>R_*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">R</field>
+        <field name="Value">R_Small</field>
+      </fields>
+      <pins>
+        <pin num="1" name="~" type="passive"/>
+        <pin num="2" name="~" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="Diode" part="SM4001">
+      <aliases>
+        <alias>SM4002</alias>
+        <alias>SM4003</alias>
+        <alias>SM4004</alias>
+        <alias>SM4005</alias>
+        <alias>SM4006</alias>
+        <alias>SM4007</alias>
+        <alias>SM513</alias>
+        <alias>SM516</alias>
+        <alias>SM518</alias>
+        <alias>SM2000</alias>
+      </aliases>
+      <description>50V 1A General Purpose Rectifier Diode, MELF</description>
+      <docs>http://cdn-reichelt.de/documents/datenblatt/A400/SMD1N400%23DIO.pdf</docs>
+      <footprints>
+        <fp>D*MELF*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">D</field>
+        <field name="Value">SM4001</field>
+        <field name="Footprint">Diode_SMD:D_MELF</field>
+      </fields>
+      <pins>
+        <pin num="1" name="K" type="passive"/>
+        <pin num="2" name="A" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="FR" part="BeagleBoneBlack_P8_Back">
+      <fields>
+        <field name="Reference">U</field>
+        <field name="Value">BeagleBoneBlack_P8_Back</field>
+        <field name="Footprint">Connector_PinHeader_2.54mm:PinHeader_2x23_P2.54mm_Vertical</field>
+      </fields>
+      <pins>
+        <pin num="1" name="DGND" type="power_out"/>
+        <pin num="2" name="DGND" type="power_out"/>
+        <pin num="3" name="GPIO1_7" type="power_out"/>
+        <pin num="4" name="GPIO1_6" type="BiDi"/>
+        <pin num="5" name="GPIO1_3" type="power_out"/>
+        <pin num="6" name="GPIO1_2" type="BiDi"/>
+        <pin num="7" name="TIMER7" type="BiDi"/>
+        <pin num="8" name="TIMER4" type="BiDi"/>
+        <pin num="9" name="TIMER6" type="BiDi"/>
+        <pin num="10" name="TIMER5" type="BiDi"/>
+        <pin num="11" name="GPIO1_12" type="BiDi"/>
+        <pin num="12" name="GPIO1_13" type="BiDi"/>
+        <pin num="13" name="GPIO0_26" type="BiDi"/>
+        <pin num="14" name="EHRPWM2B" type="BiDi"/>
+        <pin num="15" name="GPIO1_14" type="BiDi"/>
+        <pin num="16" name="GPIO1_15" type="BiDi"/>
+        <pin num="17" name="GPIO2_1" type="BiDi"/>
+        <pin num="18" name="GPIO0_27" type="BiDi"/>
+        <pin num="19" name="GPIO1_31" type="BiDi"/>
+        <pin num="20" name="EHRPWM2A" type="BiDi"/>
+        <pin num="21" name="UART5_RTSN" type="BiDi"/>
+        <pin num="22" name="GPIO1_30" type="BiDi"/>
+        <pin num="23" name="GPIO1_1" type="BiDi"/>
+        <pin num="24" name="GPIO1_4" type="BiDi"/>
+        <pin num="25" name="GPIO1_29" type="BiDi"/>
+        <pin num="26" name="GPIO1_0" type="BiDi"/>
+        <pin num="27" name="GPIO2_24" type="BiDi"/>
+        <pin num="28" name="GPIO2_22" type="BiDi"/>
+        <pin num="29" name="GPIO2_25" type="BiDi"/>
+        <pin num="30" name="GPIO2_23" type="BiDi"/>
+        <pin num="32" name="UART5_CTSN" type="BiDi"/>
+        <pin num="33" name="UART3_RTSN" type="BiDi"/>
+        <pin num="34" name="UART4_RTSN" type="BiDi"/>
+        <pin num="35" name="UART3_CTSN" type="BiDi"/>
+        <pin num="36" name="UART4_CTSN" type="BiDi"/>
+        <pin num="37" name="UART5_RXD" type="BiDi"/>
+        <pin num="38" name="UART5_TXD" type="BiDi"/>
+        <pin num="39" name="GPIO2_13" type="BiDi"/>
+        <pin num="40" name="GPIO2_12" type="BiDi"/>
+        <pin num="41" name="GPIO2_11" type="BiDi"/>
+        <pin num="42" name="GPIO2_10" type="BiDi"/>
+        <pin num="43" name="GPIO2_9" type="BiDi"/>
+        <pin num="44" name="GPIO2_8" type="BiDi"/>
+        <pin num="45" name="GPIO2_7" type="BiDi"/>
+        <pin num="46" name="GPIO2_6" type="BiDi"/>
+      </pins>
+    </libpart>
+    <libpart lib="FR" part="BeagleBoneBlack_P9_Back">
+      <fields>
+        <field name="Reference">U</field>
+        <field name="Value">BeagleBoneBlack_P9_Back</field>
+        <field name="Footprint">Connector_PinHeader_2.54mm:PinHeader_2x23_P2.54mm_Vertical</field>
+      </fields>
+      <pins>
+        <pin num="1" name="DGND" type="power_in"/>
+        <pin num="2" name="DGND" type="power_in"/>
+        <pin num="3" name="VDD_3V3EXP" type="power_out"/>
+        <pin num="4" name="VDD_3V3EXP" type="power_out"/>
+        <pin num="5" name="VDD_5V" type="power_out"/>
+        <pin num="6" name="VDD_5V" type="power_out"/>
+        <pin num="7" name="SYS_5V" type="BiDi"/>
+        <pin num="8" name="SYS_5V" type="BiDi"/>
+        <pin num="9" name="SYS_RESETn" type="BiDi"/>
+        <pin num="10" name="PWR_BUT" type="BiDi"/>
+        <pin num="11" name="GPIO1_28" type="BiDi"/>
+        <pin num="12" name="UART4_RXD" type="BiDi"/>
+        <pin num="13" name="EHRPWM1A" type="BiDi"/>
+        <pin num="14" name="UART4_TXD" type="BiDi"/>
+        <pin num="15" name="EHRPWM1B" type="BiDi"/>
+        <pin num="16" name="GPIO1_16" type="BiDi"/>
+        <pin num="17" name="I2C1_SDA" type="BiDi"/>
+        <pin num="18" name="I2C1_SCL" type="BiDi"/>
+        <pin num="19" name="I2C2_SDA" type="BiDi"/>
+        <pin num="20" name="I2C2_SCL" type="BiDi"/>
+        <pin num="21" name="UART2_RXD" type="BiDi"/>
+        <pin num="22" name="UART2_TXD" type="BiDi"/>
+        <pin num="23" name="UART1_TXD" type="BiDi"/>
+        <pin num="24" name="GPIO1_17" type="BiDi"/>
+        <pin num="25" name="UART1_RXD" type="BiDi"/>
+        <pin num="26" name="GPIO3_21" type="BiDi"/>
+        <pin num="27" name="SPI1_CS0" type="BiDi"/>
+        <pin num="28" name="GPIO3_19" type="BiDi"/>
+        <pin num="29" name="SPI1_D1" type="BiDi"/>
+        <pin num="30" name="SPI1_D0" type="BiDi"/>
+        <pin num="31" name="VDD_ADC" type="power_out"/>
+        <pin num="32" name="SPI1_SCLK" type="BiDi"/>
+        <pin num="33" name="GNDA_ADC" type="power_out"/>
+        <pin num="34" name="AIN4" type="BiDi"/>
+        <pin num="35" name="AIN5" type="BiDi"/>
+        <pin num="36" name="AIN6" type="BiDi"/>
+        <pin num="37" name="AIN3" type="BiDi"/>
+        <pin num="38" name="AIN2" type="BiDi"/>
+        <pin num="39" name="AIN1" type="BiDi"/>
+        <pin num="40" name="AIN0" type="BiDi"/>
+        <pin num="41" name="GPIO0_7" type="power_out"/>
+        <pin num="42" name="CLKOUT2" type="BiDi"/>
+        <pin num="43" name="DGND" type="BiDi"/>
+        <pin num="44" name="DGND" type="BiDi"/>
+        <pin num="45" name="DGND" type="BiDi"/>
+        <pin num="46" name="DGND" type="BiDi"/>
+      </pins>
+    </libpart>
+    <libpart lib="Mechanical" part="MountingHole_Pad">
+      <description>Mounting Hole with connection</description>
+      <docs>~</docs>
+      <footprints>
+        <fp>MountingHole*Pad*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">H</field>
+        <field name="Value">MountingHole_Pad</field>
+      </fields>
+      <pins>
+        <pin num="1" name="1" type="input"/>
+      </pins>
+    </libpart>
+    <libpart lib="Memory_EEPROM" part="24LC16">
+      <aliases>
+        <alias>24LC02</alias>
+        <alias>24LC00</alias>
+        <alias>24LC04</alias>
+        <alias>24LC08</alias>
+        <alias>24LC01</alias>
+        <alias>24LC512</alias>
+        <alias>24LC64</alias>
+        <alias>24LC1025</alias>
+        <alias>24LC32</alias>
+        <alias>24LC256</alias>
+        <alias>24LC128</alias>
+        <alias>CAT24C256</alias>
+        <alias>CAT24C128</alias>
+      </aliases>
+      <description>I2C Serial EEPROM, 16Kb, DIP-8/SOIC-8/TSSOP-8/DFN-8</description>
+      <docs>http://ww1.microchip.com/downloads/en/DeviceDoc/21703d.pdf</docs>
+      <footprints>
+        <fp>DIP*W7.62mm*</fp>
+        <fp>SOIC*3.9x4.9mm*</fp>
+        <fp>TSSOP*4.4x3mm*P0.65mm*</fp>
+        <fp>DFN*3x2mm*P0.5mm*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">U</field>
+        <field name="Value">24LC16</field>
+      </fields>
+      <pins>
+        <pin num="1" name="A0" type="input"/>
+        <pin num="2" name="A1" type="input"/>
+        <pin num="3" name="A2" type="input"/>
+        <pin num="4" name="GND" type="power_in"/>
+        <pin num="5" name="SDA" type="BiDi"/>
+        <pin num="6" name="SCL" type="input"/>
+        <pin num="7" name="WP" type="input"/>
+        <pin num="8" name="VCC" type="power_in"/>
+      </pins>
+    </libpart>
+    <libpart lib="Regulator_Linear" part="LM317_TO-252">
+      <aliases>
+        <alias>AZ1117D-ADJ</alias>
+      </aliases>
+      <description>1.5A 35V Adjustable Linear Regulator, TO-252</description>
+      <docs>http://www.ti.com/lit/ds/snvs774n/snvs774n.pdf</docs>
+      <footprints>
+        <fp>TO?252*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">U</field>
+        <field name="Value">LM317_TO-252</field>
+        <field name="Footprint">Package_TO_SOT_SMD:TO-252-2</field>
+      </fields>
+      <pins>
+        <pin num="1" name="ADJ" type="input"/>
+        <pin num="2" name="VO" type="power_out"/>
+        <pin num="3" name="VI" type="power_in"/>
+      </pins>
+    </libpart>
+    <libpart lib="Transistor_FET" part="BSS138">
+      <aliases>
+        <alias>2N7002</alias>
+        <alias>2N7002E</alias>
+        <alias>2N7002H</alias>
+        <alias>2N7002K</alias>
+        <alias>BS170F</alias>
+        <alias>BS870</alias>
+        <alias>BSN20</alias>
+        <alias>BSS123</alias>
+        <alias>BSS127S</alias>
+        <alias>DMG2302U</alias>
+        <alias>DMG3402L</alias>
+        <alias>DMG3404L</alias>
+        <alias>DMG3406L</alias>
+        <alias>DMG3414U</alias>
+        <alias>DMG3418L</alias>
+        <alias>DMN10H220L</alias>
+        <alias>DMN10H700S</alias>
+        <alias>DMN13H750S</alias>
+        <alias>DMN2041L</alias>
+        <alias>DMN2050L</alias>
+        <alias>DMN2056U</alias>
+        <alias>DMN2058U</alias>
+        <alias>DMN2075U</alias>
+        <alias>DMN2230U</alias>
+        <alias>DMN24H11DS</alias>
+        <alias>DMN24H3D5L</alias>
+        <alias>DMN3042L</alias>
+        <alias>DMN3051L</alias>
+        <alias>DMN30H4D0L</alias>
+        <alias>DMN3110S</alias>
+        <alias>DMN3150L</alias>
+        <alias>DMN3300U</alias>
+        <alias>DMN3404L</alias>
+        <alias>DMN6075S</alias>
+        <alias>DMN6140L</alias>
+        <alias>DMN67D7L</alias>
+        <alias>DMN67D8L</alias>
+        <alias>MMBF170</alias>
+        <alias>VN10LF</alias>
+        <alias>ZVN3306F</alias>
+        <alias>ZVN3310F</alias>
+        <alias>ZVN3320F</alias>
+        <alias>ZVN4106F</alias>
+        <alias>ZXM61N02F</alias>
+        <alias>ZXM61N03F</alias>
+        <alias>ZXMN10A07F</alias>
+        <alias>ZXMN2A01F</alias>
+        <alias>ZXMN2A14F</alias>
+        <alias>ZXMN2B01F</alias>
+        <alias>ZXMN2B14FH</alias>
+        <alias>ZXMN2F30FH</alias>
+        <alias>ZXMN2F34FH</alias>
+        <alias>ZXMN3A01F</alias>
+        <alias>ZXMN3A14F</alias>
+        <alias>ZXMN3B01F</alias>
+        <alias>ZXMN3B14F</alias>
+        <alias>ZXMN3F30FH</alias>
+        <alias>ZXMN6A07F</alias>
+        <alias>IRLML0030</alias>
+        <alias>IRLML2060</alias>
+        <alias>TSM2302CX</alias>
+        <alias>AO3400A</alias>
+      </aliases>
+      <description>50V Vds, 0.22A Id, N-Channel MOSFET, SOT-23</description>
+      <docs>https://www.onsemi.com/pub/Collateral/BSS138-D.PDF</docs>
+      <footprints>
+        <fp>SOT?23*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">Q</field>
+        <field name="Value">BSS138</field>
+        <field name="Footprint">Package_TO_SOT_SMD:SOT-23</field>
+      </fields>
+      <pins>
+        <pin num="1" name="G" type="input"/>
+        <pin num="2" name="S" type="passive"/>
+        <pin num="3" name="D" type="passive"/>
+      </pins>
+    </libpart>
+  </libparts>
+  <libraries>
+    <library logical="Connector">
+      <uri>/usr/share/kicad/library/Connector.lib</uri>
+    </library>
+    <library logical="Device">
+      <uri>/usr/share/kicad/library/Device.lib</uri>
+    </library>
+    <library logical="Diode">
+      <uri>/usr/share/kicad/library/Diode.lib</uri>
+    </library>
+    <library logical="FR">
+      <uri>/home/flo/repos/kicad-lib/FR.lib</uri>
+    </library>
+    <library logical="Mechanical">
+      <uri>/usr/share/kicad/library/Mechanical.lib</uri>
+    </library>
+    <library logical="Memory_EEPROM">
+      <uri>/usr/share/kicad/library/Memory_EEPROM.lib</uri>
+    </library>
+    <library logical="Regulator_Linear">
+      <uri>/usr/share/kicad/library/Regulator_Linear.lib</uri>
+    </library>
+    <library logical="Transistor_FET">
+      <uri>/usr/share/kicad/library/Transistor_FET.lib</uri>
+    </library>
+  </libraries>
+  <nets>
+    <net code="1" name="Net-(U104-Pad14)">
+      <node ref="U104" pin="14"/>
+    </net>
+    <net code="2" name="Net-(U104-Pad41)">
+      <node ref="U104" pin="41"/>
+    </net>
+    <net code="3" name="Net-(U104-Pad43)">
+      <node ref="U104" pin="43"/>
+    </net>
+    <net code="4" name="Net-(U104-Pad45)">
+      <node ref="U104" pin="45"/>
+    </net>
+    <net code="5" name="Net-(U104-Pad5)">
+      <node ref="U104" pin="5"/>
+    </net>
+    <net code="6" name="Net-(U104-Pad7)">
+      <node ref="U104" pin="7"/>
+    </net>
+    <net code="7" name="Net-(U104-Pad9)">
+      <node ref="U104" pin="9"/>
+    </net>
+    <net code="8" name="Net-(U104-Pad10)">
+      <node ref="U104" pin="10"/>
+    </net>
+    <net code="9" name="/Ctrl_CH15">
+      <node ref="R1601" pin="1"/>
+      <node ref="R1603" pin="1"/>
+      <node ref="U104" pin="12"/>
+    </net>
+    <net code="10" name="Net-(U104-Pad39)">
+      <node ref="U104" pin="39"/>
+    </net>
+    <net code="11" name="/Ctrl_CH14">
+      <node ref="U104" pin="16"/>
+      <node ref="R1501" pin="1"/>
+      <node ref="R1503" pin="1"/>
+    </net>
+    <net code="12" name="/Ctrl_CH03">
+      <node ref="R403" pin="1"/>
+      <node ref="U104" pin="18"/>
+      <node ref="R401" pin="1"/>
+    </net>
+    <net code="13" name="GNDD">
+      <node ref="Q401" pin="2"/>
+      <node ref="R402" pin="1"/>
+      <node ref="Q701" pin="2"/>
+      <node ref="D401" pin="1"/>
+      <node ref="R502" pin="1"/>
+      <node ref="Q501" pin="2"/>
+      <node ref="Q601" pin="2"/>
+      <node ref="R602" pin="1"/>
+      <node ref="D501" pin="1"/>
+      <node ref="D701" pin="1"/>
+      <node ref="D601" pin="1"/>
+      <node ref="R702" pin="1"/>
+      <node ref="U103" pin="46"/>
+      <node ref="U103" pin="44"/>
+      <node ref="J103" pin="2"/>
+      <node ref="U103" pin="1"/>
+      <node ref="JP103" pin="1"/>
+      <node ref="JP102" pin="1"/>
+      <node ref="Q201" pin="2"/>
+      <node ref="Q301" pin="2"/>
+      <node ref="R302" pin="1"/>
+      <node ref="D301" pin="1"/>
+      <node ref="H103" pin="1"/>
+      <node ref="H102" pin="1"/>
+      <node ref="H101" pin="1"/>
+      <node ref="U103" pin="43"/>
+      <node ref="H104" pin="1"/>
+      <node ref="U103" pin="45"/>
+      <node ref="U102" pin="4"/>
+      <node ref="C104" pin="2"/>
+      <node ref="U103" pin="2"/>
+      <node ref="R1402" pin="1"/>
+      <node ref="Q1501" pin="2"/>
+      <node ref="R1502" pin="1"/>
+      <node ref="D1501" pin="1"/>
+      <node ref="Q1401" pin="2"/>
+      <node ref="D1601" pin="1"/>
+      <node ref="D1401" pin="1"/>
+      <node ref="Q1301" pin="2"/>
+      <node ref="R1302" pin="1"/>
+      <node ref="R202" pin="1"/>
+      <node ref="D201" pin="1"/>
+      <node ref="Q1701" pin="2"/>
+      <node ref="R1702" pin="1"/>
+      <node ref="D1701" pin="1"/>
+      <node ref="Q1601" pin="2"/>
+      <node ref="R1602" pin="1"/>
+      <node ref="D1001" pin="1"/>
+      <node ref="Q901" pin="2"/>
+      <node ref="R902" pin="1"/>
+      <node ref="D901" pin="1"/>
+      <node ref="Q801" pin="2"/>
+      <node ref="R802" pin="1"/>
+      <node ref="D801" pin="1"/>
+      <node ref="D1301" pin="1"/>
+      <node ref="Q1201" pin="2"/>
+      <node ref="R1202" pin="1"/>
+      <node ref="D1201" pin="1"/>
+      <node ref="Q1101" pin="2"/>
+      <node ref="R1102" pin="1"/>
+      <node ref="D1101" pin="1"/>
+      <node ref="Q1001" pin="2"/>
+      <node ref="R1002" pin="1"/>
+      <node ref="U104" pin="1"/>
+      <node ref="TP106" pin="1"/>
+      <node ref="R102" pin="2"/>
+      <node ref="R103" pin="2"/>
+      <node ref="C103" pin="2"/>
+      <node ref="U104" pin="2"/>
+      <node ref="C102" pin="2"/>
+      <node ref="C101" pin="2"/>
+    </net>
+    <net code="14" name="Net-(U104-Pad20)">
+      <node ref="U104" pin="20"/>
+    </net>
+    <net code="15" name="Net-(U104-Pad22)">
+      <node ref="U104" pin="22"/>
+    </net>
+    <net code="16" name="Net-(U104-Pad24)">
+      <node ref="U104" pin="24"/>
+    </net>
+    <net code="17" name="/Ctrl_CH12">
+      <node ref="R1303" pin="1"/>
+      <node ref="R1301" pin="1"/>
+      <node ref="U104" pin="26"/>
+    </net>
+    <net code="18" name="Net-(U104-Pad28)">
+      <node ref="U104" pin="28"/>
+    </net>
+    <net code="19" name="Net-(U104-Pad21)">
+      <node ref="U104" pin="21"/>
+    </net>
+    <net code="20" name="Net-(U104-Pad11)">
+      <node ref="U104" pin="11"/>
+    </net>
+    <net code="21" name="Net-(U104-Pad13)">
+      <node ref="U104" pin="13"/>
+    </net>
+    <net code="22" name="Net-(U104-Pad15)">
+      <node ref="U104" pin="15"/>
+    </net>
+    <net code="23" name="Net-(U104-Pad17)">
+      <node ref="U104" pin="17"/>
+    </net>
+    <net code="24" name="/Ctrl_CH13">
+      <node ref="R1403" pin="1"/>
+      <node ref="U104" pin="19"/>
+      <node ref="R1401" pin="1"/>
+    </net>
+    <net code="25" name="Net-(U104-Pad21)">
+      <node ref="U104" pin="21"/>
+    </net>
+    <net code="26" name="/Ctrl_CH11">
+      <node ref="R1203" pin="1"/>
+      <node ref="R1201" pin="1"/>
+      <node ref="U104" pin="30"/>
+    </net>
+    <net code="27" name="Net-(U104-Pad23)">
+      <node ref="U104" pin="23"/>
+    </net>
+    <net code="28" name="Net-(U104-Pad25)">
+      <node ref="U104" pin="25"/>
+    </net>
+    <net code="29" name="Net-(U104-Pad27)">
+      <node ref="U104" pin="27"/>
+    </net>
+    <net code="30" name="Net-(U104-Pad29)">
+      <node ref="U104" pin="29"/>
+    </net>
+    <net code="31" name="Net-(U104-Pad3)">
+      <node ref="U104" pin="3"/>
+    </net>
+    <net code="32" name="Net-(U104-Pad33)">
+      <node ref="U104" pin="33"/>
+    </net>
+    <net code="33" name="Net-(U104-Pad35)">
+      <node ref="U104" pin="35"/>
+    </net>
+    <net code="34" name="Net-(U104-Pad37)">
+      <node ref="U104" pin="37"/>
+    </net>
+    <net code="35" name="Net-(U104-Pad46)">
+      <node ref="U104" pin="46"/>
+    </net>
+    <net code="36" name="Net-(U104-Pad32)">
+      <node ref="U104" pin="32"/>
+    </net>
+    <net code="37" name="Net-(U104-Pad34)">
+      <node ref="U104" pin="34"/>
+    </net>
+    <net code="38" name="Net-(U104-Pad36)">
+      <node ref="U104" pin="36"/>
+    </net>
+    <net code="39" name="Net-(U104-Pad38)">
+      <node ref="U104" pin="38"/>
+    </net>
+    <net code="40" name="/Ctrl_CH16">
+      <node ref="R1701" pin="1"/>
+      <node ref="U104" pin="4"/>
+      <node ref="R1703" pin="1"/>
+    </net>
+    <net code="41" name="/Ctrl_CH10">
+      <node ref="R1103" pin="1"/>
+      <node ref="R1101" pin="1"/>
+      <node ref="U104" pin="40"/>
+    </net>
+    <net code="42" name="/Ctrl_CH09">
+      <node ref="R1001" pin="1"/>
+      <node ref="R1003" pin="1"/>
+      <node ref="U104" pin="42"/>
+    </net>
+    <net code="43" name="/Ctrl_CH07">
+      <node ref="R803" pin="1"/>
+      <node ref="R801" pin="1"/>
+      <node ref="U104" pin="44"/>
+    </net>
+    <net code="44" name="/Ctrl_CH01">
+      <node ref="R203" pin="1"/>
+      <node ref="U104" pin="6"/>
+      <node ref="R201" pin="1"/>
+    </net>
+    <net code="45" name="Net-(U104-Pad8)">
+      <node ref="U104" pin="8"/>
+    </net>
+    <net code="46" name="/Out_CH07">
+      <node ref="J101" pin="13"/>
+      <node ref="Q801" pin="3"/>
+    </net>
+    <net code="47" name="/Out_CH08">
+      <node ref="Q901" pin="3"/>
+      <node ref="J101" pin="15"/>
+    </net>
+    <net code="48" name="/Out_CH13">
+      <node ref="Q1401" pin="3"/>
+      <node ref="J102" pin="9"/>
+    </net>
+    <net code="49" name="/Out_CH14">
+      <node ref="Q1501" pin="3"/>
+      <node ref="J102" pin="11"/>
+    </net>
+    <net code="50" name="/Out_CH15">
+      <node ref="J102" pin="13"/>
+      <node ref="Q1601" pin="3"/>
+    </net>
+    <net code="51" name="/Out_CH16">
+      <node ref="J102" pin="15"/>
+      <node ref="Q1701" pin="3"/>
+    </net>
+    <net code="52" name="Net-(C101-Pad1)">
+      <node ref="JP101" pin="2"/>
+      <node ref="C101" pin="1"/>
+      <node ref="U101" pin="3"/>
+      <node ref="D101" pin="1"/>
+    </net>
+    <net code="53" name="+5V">
+      <node ref="U103" pin="5"/>
+      <node ref="C102" pin="1"/>
+      <node ref="TP101" pin="1"/>
+      <node ref="U103" pin="6"/>
+      <node ref="R101" pin="1"/>
+      <node ref="U101" pin="2"/>
+      <node ref="D102" pin="1"/>
+      <node ref="D101" pin="2"/>
+    </net>
+    <net code="54" name="/I2C2_SDA">
+      <node ref="U103" pin="19"/>
+      <node ref="U102" pin="5"/>
+      <node ref="TP104" pin="1"/>
+      <node ref="R105" pin="2"/>
+    </net>
+    <net code="55" name="/WP">
+      <node ref="U102" pin="7"/>
+      <node ref="R109" pin="2"/>
+      <node ref="TP102" pin="1"/>
+    </net>
+    <net code="56" name="Net-(D103-Pad1)">
+      <node ref="F101" pin="2"/>
+      <node ref="D103" pin="1"/>
+    </net>
+    <net code="57" name="Net-(C103-Pad1)">
+      <node ref="C103" pin="1"/>
+      <node ref="R102" pin="1"/>
+      <node ref="R103" pin="1"/>
+      <node ref="U101" pin="1"/>
+      <node ref="R101" pin="2"/>
+      <node ref="D102" pin="2"/>
+    </net>
+    <net code="58" name="Net-(D103-Pad2)">
+      <node ref="J103" pin="1"/>
+      <node ref="D103" pin="2"/>
+    </net>
+    <net code="59" name="Net-(U103-Pad36)">
+      <node ref="U103" pin="36"/>
+    </net>
+    <net code="60" name="Net-(U103-Pad12)">
+      <node ref="U103" pin="12"/>
+    </net>
+    <net code="61" name="Net-(U103-Pad14)">
+      <node ref="U103" pin="14"/>
+    </net>
+    <net code="62" name="Net-(U103-Pad16)">
+      <node ref="U103" pin="16"/>
+    </net>
+    <net code="63" name="Net-(U103-Pad18)">
+      <node ref="U103" pin="18"/>
+    </net>
+    <net code="64" name="Net-(U103-Pad22)">
+      <node ref="U103" pin="22"/>
+    </net>
+    <net code="65" name="Net-(U103-Pad30)">
+      <node ref="U103" pin="30"/>
+    </net>
+    <net code="66" name="Net-(U103-Pad32)">
+      <node ref="U103" pin="32"/>
+    </net>
+    <net code="67" name="Net-(U103-Pad34)">
+      <node ref="U103" pin="34"/>
+    </net>
+    <net code="68" name="Net-(U103-Pad10)">
+      <node ref="U103" pin="10"/>
+    </net>
+    <net code="69" name="Net-(U103-Pad38)">
+      <node ref="U103" pin="38"/>
+    </net>
+    <net code="70" name="Net-(U103-Pad40)">
+      <node ref="U103" pin="40"/>
+    </net>
+    <net code="71" name="Net-(U103-Pad42)">
+      <node ref="U103" pin="42"/>
+    </net>
+    <net code="72" name="Net-(U103-Pad17)">
+      <node ref="U103" pin="17"/>
+    </net>
+    <net code="73" name="Net-(U103-Pad27)">
+      <node ref="U103" pin="27"/>
+    </net>
+    <net code="74" name="Net-(U103-Pad7)">
+      <node ref="U103" pin="7"/>
+    </net>
+    <net code="75" name="Net-(U103-Pad9)">
+      <node ref="U103" pin="9"/>
+    </net>
+    <net code="76" name="Net-(U103-Pad13)">
+      <node ref="U103" pin="13"/>
+    </net>
+    <net code="77" name="Net-(U103-Pad15)">
+      <node ref="U103" pin="15"/>
+    </net>
+    <net code="78" name="Net-(U103-Pad21)">
+      <node ref="U103" pin="21"/>
+    </net>
+    <net code="79" name="Net-(U103-Pad23)">
+      <node ref="U103" pin="23"/>
+    </net>
+    <net code="80" name="Net-(U103-Pad25)">
+      <node ref="U103" pin="25"/>
+    </net>
+    <net code="81" name="Net-(U103-Pad29)">
+      <node ref="U103" pin="29"/>
+    </net>
+    <net code="82" name="Net-(U103-Pad31)">
+      <node ref="U103" pin="31"/>
+    </net>
+    <net code="83" name="Net-(U103-Pad33)">
+      <node ref="U103" pin="33"/>
+    </net>
+    <net code="84" name="Net-(U103-Pad35)">
+      <node ref="U103" pin="35"/>
+    </net>
+    <net code="85" name="Net-(U103-Pad37)">
+      <node ref="U103" pin="37"/>
+    </net>
+    <net code="86" name="Net-(U103-Pad39)">
+      <node ref="U103" pin="39"/>
+    </net>
+    <net code="87" name="Net-(U103-Pad8)">
+      <node ref="U103" pin="8"/>
+    </net>
+    <net code="88" name="/SW1_A2">
+      <node ref="U102" pin="3"/>
+      <node ref="JP103" pin="2"/>
+      <node ref="R108" pin="2"/>
+    </net>
+    <net code="89" name="+3V3">
+      <node ref="U102" pin="8"/>
+      <node ref="R105" pin="1"/>
+      <node ref="R107" pin="1"/>
+      <node ref="U103" pin="3"/>
+      <node ref="R109" pin="1"/>
+      <node ref="R108" pin="1"/>
+      <node ref="R104" pin="1"/>
+      <node ref="U103" pin="4"/>
+      <node ref="R106" pin="1"/>
+      <node ref="C104" pin="1"/>
+    </net>
+    <net code="90" name="/SW1_A0">
+      <node ref="U102" pin="1"/>
+      <node ref="R104" pin="2"/>
+    </net>
+    <net code="91" name="/SW1_A1">
+      <node ref="U102" pin="2"/>
+      <node ref="JP102" pin="2"/>
+      <node ref="R107" pin="2"/>
+    </net>
+    <net code="92" name="/Ctrl_CH02">
+      <node ref="R303" pin="1"/>
+      <node ref="R301" pin="1"/>
+      <node ref="U103" pin="11"/>
+    </net>
+    <net code="93" name="/Ctrl_CH08">
+      <node ref="R903" pin="1"/>
+      <node ref="U103" pin="41"/>
+      <node ref="R901" pin="1"/>
+    </net>
+    <net code="94" name="/Ctrl_CH04">
+      <node ref="R503" pin="1"/>
+      <node ref="U103" pin="24"/>
+      <node ref="R501" pin="1"/>
+    </net>
+    <net code="95" name="/I2C2_SCL">
+      <node ref="TP103" pin="1"/>
+      <node ref="R106" pin="2"/>
+      <node ref="U103" pin="20"/>
+      <node ref="U102" pin="6"/>
+    </net>
+    <net code="96" name="/Ctrl_CH05">
+      <node ref="R601" pin="1"/>
+      <node ref="U103" pin="26"/>
+      <node ref="R603" pin="1"/>
+    </net>
+    <net code="97" name="/Ctrl_CH06">
+      <node ref="R703" pin="1"/>
+      <node ref="U103" pin="28"/>
+      <node ref="R701" pin="1"/>
+    </net>
+    <net code="98" name="/Out_CH04">
+      <node ref="J101" pin="7"/>
+      <node ref="Q501" pin="3"/>
+    </net>
+    <net code="99" name="/Out_CH05">
+      <node ref="J101" pin="9"/>
+      <node ref="Q601" pin="3"/>
+    </net>
+    <net code="100" name="/Out_CH06">
+      <node ref="J101" pin="11"/>
+      <node ref="Q701" pin="3"/>
+    </net>
+    <net code="101" name="/Out_CH09">
+      <node ref="Q1001" pin="3"/>
+      <node ref="J102" pin="1"/>
+    </net>
+    <net code="102" name="/Out_CH10">
+      <node ref="Q1101" pin="3"/>
+      <node ref="J102" pin="3"/>
+    </net>
+    <net code="103" name="/Out_CH11">
+      <node ref="Q1201" pin="3"/>
+      <node ref="J102" pin="5"/>
+    </net>
+    <net code="104" name="/Out_CH12">
+      <node ref="J102" pin="7"/>
+      <node ref="Q1301" pin="3"/>
+    </net>
+    <net code="105" name="/Out_CH01">
+      <node ref="J101" pin="1"/>
+      <node ref="Q201" pin="3"/>
+    </net>
+    <net code="106" name="/Out_CH02">
+      <node ref="J101" pin="3"/>
+      <node ref="Q301" pin="3"/>
+    </net>
+    <net code="107" name="/Out_CH03">
+      <node ref="J101" pin="5"/>
+      <node ref="Q401" pin="3"/>
+    </net>
+    <net code="108" name="+24V">
+      <node ref="J101" pin="12"/>
+      <node ref="J102" pin="8"/>
+      <node ref="J102" pin="6"/>
+      <node ref="J102" pin="4"/>
+      <node ref="J102" pin="2"/>
+      <node ref="J102" pin="16"/>
+      <node ref="J101" pin="14"/>
+      <node ref="J102" pin="14"/>
+      <node ref="J101" pin="16"/>
+      <node ref="J101" pin="4"/>
+      <node ref="J101" pin="10"/>
+      <node ref="F101" pin="1"/>
+      <node ref="J101" pin="2"/>
+      <node ref="J102" pin="10"/>
+      <node ref="J101" pin="8"/>
+      <node ref="J101" pin="6"/>
+      <node ref="TP105" pin="1"/>
+      <node ref="JP101" pin="1"/>
+      <node ref="J102" pin="12"/>
+    </net>
+    <net code="109" name="Net-(Q301-Pad1)">
+      <node ref="R301" pin="2"/>
+      <node ref="R302" pin="2"/>
+      <node ref="Q301" pin="1"/>
+    </net>
+    <net code="110" name="Net-(D301-Pad2)">
+      <node ref="R303" pin="2"/>
+      <node ref="D301" pin="2"/>
+    </net>
+    <net code="111" name="Net-(D401-Pad2)">
+      <node ref="R403" pin="2"/>
+      <node ref="D401" pin="2"/>
+    </net>
+    <net code="112" name="Net-(Q401-Pad1)">
+      <node ref="R402" pin="2"/>
+      <node ref="R401" pin="2"/>
+      <node ref="Q401" pin="1"/>
+    </net>
+    <net code="113" name="Net-(D501-Pad2)">
+      <node ref="D501" pin="2"/>
+      <node ref="R503" pin="2"/>
+    </net>
+    <net code="114" name="Net-(Q501-Pad1)">
+      <node ref="R502" pin="2"/>
+      <node ref="Q501" pin="1"/>
+      <node ref="R501" pin="2"/>
+    </net>
+    <net code="115" name="Net-(Q601-Pad1)">
+      <node ref="R602" pin="2"/>
+      <node ref="Q601" pin="1"/>
+      <node ref="R601" pin="2"/>
+    </net>
+    <net code="116" name="Net-(D601-Pad2)">
+      <node ref="R603" pin="2"/>
+      <node ref="D601" pin="2"/>
+    </net>
+    <net code="117" name="Net-(D701-Pad2)">
+      <node ref="R703" pin="2"/>
+      <node ref="D701" pin="2"/>
+    </net>
+    <net code="118" name="Net-(Q701-Pad1)">
+      <node ref="Q701" pin="1"/>
+      <node ref="R702" pin="2"/>
+      <node ref="R701" pin="2"/>
+    </net>
+    <net code="119" name="Net-(D801-Pad2)">
+      <node ref="D801" pin="2"/>
+      <node ref="R803" pin="2"/>
+    </net>
+    <net code="120" name="Net-(Q801-Pad1)">
+      <node ref="R801" pin="2"/>
+      <node ref="R802" pin="2"/>
+      <node ref="Q801" pin="1"/>
+    </net>
+    <net code="121" name="Net-(D901-Pad2)">
+      <node ref="D901" pin="2"/>
+      <node ref="R903" pin="2"/>
+    </net>
+    <net code="122" name="Net-(Q901-Pad1)">
+      <node ref="R902" pin="2"/>
+      <node ref="R901" pin="2"/>
+      <node ref="Q901" pin="1"/>
+    </net>
+    <net code="123" name="Net-(D1001-Pad2)">
+      <node ref="R1003" pin="2"/>
+      <node ref="D1001" pin="2"/>
+    </net>
+    <net code="124" name="Net-(Q1001-Pad1)">
+      <node ref="R1001" pin="2"/>
+      <node ref="R1002" pin="2"/>
+      <node ref="Q1001" pin="1"/>
+    </net>
+    <net code="125" name="Net-(D1101-Pad2)">
+      <node ref="R1103" pin="2"/>
+      <node ref="D1101" pin="2"/>
+    </net>
+    <net code="126" name="Net-(Q1101-Pad1)">
+      <node ref="R1102" pin="2"/>
+      <node ref="R1101" pin="2"/>
+      <node ref="Q1101" pin="1"/>
+    </net>
+    <net code="127" name="Net-(D1201-Pad2)">
+      <node ref="R1203" pin="2"/>
+      <node ref="D1201" pin="2"/>
+    </net>
+    <net code="128" name="Net-(Q1201-Pad1)">
+      <node ref="R1201" pin="2"/>
+      <node ref="R1202" pin="2"/>
+      <node ref="Q1201" pin="1"/>
+    </net>
+    <net code="129" name="Net-(D1301-Pad2)">
+      <node ref="R1303" pin="2"/>
+      <node ref="D1301" pin="2"/>
+    </net>
+    <net code="130" name="Net-(Q1301-Pad1)">
+      <node ref="Q1301" pin="1"/>
+      <node ref="R1301" pin="2"/>
+      <node ref="R1302" pin="2"/>
+    </net>
+    <net code="131" name="Net-(D1401-Pad2)">
+      <node ref="R1403" pin="2"/>
+      <node ref="D1401" pin="2"/>
+    </net>
+    <net code="132" name="Net-(Q1401-Pad1)">
+      <node ref="R1402" pin="2"/>
+      <node ref="R1401" pin="2"/>
+      <node ref="Q1401" pin="1"/>
+    </net>
+    <net code="133" name="Net-(D1501-Pad2)">
+      <node ref="R1503" pin="2"/>
+      <node ref="D1501" pin="2"/>
+    </net>
+    <net code="134" name="Net-(Q1501-Pad1)">
+      <node ref="R1502" pin="2"/>
+      <node ref="Q1501" pin="1"/>
+      <node ref="R1501" pin="2"/>
+    </net>
+    <net code="135" name="Net-(D1601-Pad2)">
+      <node ref="D1601" pin="2"/>
+      <node ref="R1603" pin="2"/>
+    </net>
+    <net code="136" name="Net-(Q1601-Pad1)">
+      <node ref="Q1601" pin="1"/>
+      <node ref="R1602" pin="2"/>
+      <node ref="R1601" pin="2"/>
+    </net>
+    <net code="137" name="Net-(D1701-Pad2)">
+      <node ref="R1703" pin="2"/>
+      <node ref="D1701" pin="2"/>
+    </net>
+    <net code="138" name="Net-(Q1701-Pad1)">
+      <node ref="R1701" pin="2"/>
+      <node ref="Q1701" pin="1"/>
+      <node ref="R1702" pin="2"/>
+    </net>
+    <net code="139" name="Net-(D201-Pad2)">
+      <node ref="R203" pin="2"/>
+      <node ref="D201" pin="2"/>
+    </net>
+    <net code="140" name="Net-(Q201-Pad1)">
+      <node ref="Q201" pin="1"/>
+      <node ref="R201" pin="2"/>
+      <node ref="R202" pin="2"/>
+    </net>
+  </nets>
+</export>

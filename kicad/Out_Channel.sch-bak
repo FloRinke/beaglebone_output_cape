@@ -1,0 +1,422 @@
+EESchema Schematic File Version 4
+EELAYER 30 0
+EELAYER END
+$Descr A4 11693 8268
+encoding utf-8
+Sheet 2 7
+Title ""
+Date ""
+Rev ""
+Comp ""
+Comment1 ""
+Comment2 ""
+Comment3 ""
+Comment4 ""
+$EndDescr
+$Comp
+L Isolator:LTV-357T U?
+U 1 1 60D64866
+P 5300 3350
+AR Path="/60D64866" Ref="U?"  Part="1" 
+AR Path="/60D5C75A/60D64866" Ref="U201"  Part="1" 
+AR Path="/60D74D69/60D64866" Ref="U301"  Part="1" 
+AR Path="/60D75D44/60D64866" Ref="U?"  Part="1" 
+AR Path="/60D77191/60D64866" Ref="U401"  Part="1" 
+AR Path="/60D781FC/60D64866" Ref="U501"  Part="1" 
+AR Path="/60D79270/60D64866" Ref="U601"  Part="1" 
+AR Path="/60D7A254/60D64866" Ref="U701"  Part="1" 
+F 0 "U201" H 5300 3675 50  0000 C CNN
+F 1 "ELN357N-G" H 5300 3584 50  0000 C CNN
+F 2 "_FR:SOP-4_4.4x4.1mm_P2.54mm" H 5100 3150 50  0001 L CIN
+F 3 "https://datasheet.lcsc.com/lcsc/1809192312_Everlight-Elec-EL357N-B-TA-G_C6649.pdf" H 5300 3350 50  0001 L CNN
+F 4 "C6649" H 5300 3350 50  0001 C CNN "LCSC"
+	1    5300 3350
+	1    0    0    -1  
+$EndComp
+$Comp
+L Device:Q_DUAL_PMOS_S1G1S2G2D2D2D1D1 Q?
+U 1 1 60D6486C
+P 6300 3450
+AR Path="/60D6486C" Ref="Q?"  Part="1" 
+AR Path="/60D5C75A/60D6486C" Ref="Q201"  Part="1" 
+AR Path="/60D74D69/60D6486C" Ref="Q301"  Part="1" 
+AR Path="/60D75D44/60D6486C" Ref="Q?"  Part="1" 
+AR Path="/60D77191/60D6486C" Ref="Q401"  Part="1" 
+AR Path="/60D781FC/60D6486C" Ref="Q501"  Part="1" 
+AR Path="/60D79270/60D6486C" Ref="Q601"  Part="1" 
+AR Path="/60D7A254/60D6486C" Ref="Q701"  Part="1" 
+F 0 "Q201" H 6588 3496 50  0000 L CNN
+F 1 "APM4953" H 6588 3405 50  0000 L CNN
+F 2 "Package_SO:SO-8_3.9x4.9mm_P1.27mm" H 6350 3450 50  0001 C CNN
+F 3 "https://datasheet.lcsc.com/lcsc/1810201610_Anpec-Elec-APM4953KC-TRG_C20897.pdf" H 6350 3450 50  0001 C CNN
+	1    6300 3450
+	1    0    0    1   
+$EndComp
+$Comp
+L Device:Q_DUAL_PMOS_S1G1S2G2D2D2D1D1 Q?
+U 2 1 60D64872
+P 6300 4450
+AR Path="/60D64872" Ref="Q?"  Part="2" 
+AR Path="/60D5C75A/60D64872" Ref="Q201"  Part="2" 
+AR Path="/60D74D69/60D64872" Ref="Q301"  Part="2" 
+AR Path="/60D75D44/60D64872" Ref="Q?"  Part="2" 
+AR Path="/60D77191/60D64872" Ref="Q401"  Part="2" 
+AR Path="/60D781FC/60D64872" Ref="Q501"  Part="2" 
+AR Path="/60D79270/60D64872" Ref="Q601"  Part="2" 
+AR Path="/60D7A254/60D64872" Ref="Q701"  Part="2" 
+F 0 "Q201" H 6588 4496 50  0000 L CNN
+F 1 "APM4953" H 6588 4405 50  0000 L CNN
+F 2 "Package_SO:SO-8_3.9x4.9mm_P1.27mm" H 6350 4450 50  0001 C CNN
+F 3 "https://datasheet.lcsc.com/lcsc/1810201610_Anpec-Elec-APM4953KC-TRG_C20897.pdf" H 6350 4450 50  0001 C CNN
+	2    6300 4450
+	1    0    0    1   
+$EndComp
+$Comp
+L Isolator:LTV-357T U?
+U 1 1 60D64879
+P 5300 4350
+AR Path="/60D64879" Ref="U?"  Part="1" 
+AR Path="/60D5C75A/60D64879" Ref="U202"  Part="1" 
+AR Path="/60D74D69/60D64879" Ref="U302"  Part="1" 
+AR Path="/60D75D44/60D64879" Ref="U?"  Part="1" 
+AR Path="/60D77191/60D64879" Ref="U402"  Part="1" 
+AR Path="/60D781FC/60D64879" Ref="U502"  Part="1" 
+AR Path="/60D79270/60D64879" Ref="U602"  Part="1" 
+AR Path="/60D7A254/60D64879" Ref="U702"  Part="1" 
+F 0 "U202" H 5300 4675 50  0000 C CNN
+F 1 "ELN357N-G" H 5300 4584 50  0000 C CNN
+F 2 "_FR:SOP-4_4.4x4.1mm_P2.54mm" H 5100 4150 50  0001 L CIN
+F 3 "https://datasheet.lcsc.com/lcsc/1809192312_Everlight-Elec-EL357N-B-TA-G_C6649.pdf" H 5300 4350 50  0001 L CNN
+F 4 "C6649" H 5300 4350 50  0001 C CNN "LCSC"
+	1    5300 4350
+	1    0    0    -1  
+$EndComp
+$Comp
+L Device:R_Small R?
+U 1 1 60D6487F
+P 5950 3450
+AR Path="/60D6487F" Ref="R?"  Part="1" 
+AR Path="/60D5C75A/60D6487F" Ref="R202"  Part="1" 
+AR Path="/60D74D69/60D6487F" Ref="R302"  Part="1" 
+AR Path="/60D75D44/60D6487F" Ref="R?"  Part="1" 
+AR Path="/60D77191/60D6487F" Ref="R402"  Part="1" 
+AR Path="/60D781FC/60D6487F" Ref="R502"  Part="1" 
+AR Path="/60D79270/60D6487F" Ref="R602"  Part="1" 
+AR Path="/60D7A254/60D6487F" Ref="R702"  Part="1" 
+F 0 "R202" V 5754 3450 50  0000 C CNN
+F 1 "100" V 5845 3450 50  0000 C CNN
+F 2 "Resistor_SMD:R_0402_1005Metric" H 5950 3450 50  0001 C CNN
+F 3 "~" H 5950 3450 50  0001 C CNN
+	1    5950 3450
+	0    1    1    0   
+$EndComp
+$Comp
+L power:+24V #PWR?
+U 1 1 60D64885
+P 6400 3250
+AR Path="/60D64885" Ref="#PWR?"  Part="1" 
+AR Path="/60D5C75A/60D64885" Ref="#PWR0202"  Part="1" 
+AR Path="/60D74D69/60D64885" Ref="#PWR0302"  Part="1" 
+AR Path="/60D75D44/60D64885" Ref="#PWR?"  Part="1" 
+AR Path="/60D77191/60D64885" Ref="#PWR0402"  Part="1" 
+AR Path="/60D781FC/60D64885" Ref="#PWR0502"  Part="1" 
+AR Path="/60D79270/60D64885" Ref="#PWR0602"  Part="1" 
+AR Path="/60D7A254/60D64885" Ref="#PWR0702"  Part="1" 
+F 0 "#PWR0202" H 6400 3100 50  0001 C CNN
+F 1 "+24V" H 6415 3423 50  0000 C CNN
+F 2 "" H 6400 3250 50  0001 C CNN
+F 3 "" H 6400 3250 50  0001 C CNN
+	1    6400 3250
+	1    0    0    -1  
+$EndComp
+$Comp
+L power:+24V #PWR?
+U 1 1 60D6488B
+P 6400 4250
+AR Path="/60D6488B" Ref="#PWR?"  Part="1" 
+AR Path="/60D5C75A/60D6488B" Ref="#PWR0206"  Part="1" 
+AR Path="/60D74D69/60D6488B" Ref="#PWR0306"  Part="1" 
+AR Path="/60D75D44/60D6488B" Ref="#PWR?"  Part="1" 
+AR Path="/60D77191/60D6488B" Ref="#PWR0406"  Part="1" 
+AR Path="/60D781FC/60D6488B" Ref="#PWR0506"  Part="1" 
+AR Path="/60D79270/60D6488B" Ref="#PWR0606"  Part="1" 
+AR Path="/60D7A254/60D6488B" Ref="#PWR0706"  Part="1" 
+F 0 "#PWR0206" H 6400 4100 50  0001 C CNN
+F 1 "+24V" H 6415 4423 50  0000 C CNN
+F 2 "" H 6400 4250 50  0001 C CNN
+F 3 "" H 6400 4250 50  0001 C CNN
+	1    6400 4250
+	1    0    0    -1  
+$EndComp
+$Comp
+L Device:R_Small R?
+U 1 1 60D64891
+P 5950 4450
+AR Path="/60D64891" Ref="R?"  Part="1" 
+AR Path="/60D5C75A/60D64891" Ref="R205"  Part="1" 
+AR Path="/60D74D69/60D64891" Ref="R305"  Part="1" 
+AR Path="/60D75D44/60D64891" Ref="R?"  Part="1" 
+AR Path="/60D77191/60D64891" Ref="R405"  Part="1" 
+AR Path="/60D781FC/60D64891" Ref="R505"  Part="1" 
+AR Path="/60D79270/60D64891" Ref="R605"  Part="1" 
+AR Path="/60D7A254/60D64891" Ref="R705"  Part="1" 
+F 0 "R205" V 5754 4450 50  0000 C CNN
+F 1 "100" V 5845 4450 50  0000 C CNN
+F 2 "Resistor_SMD:R_0402_1005Metric" H 5950 4450 50  0001 C CNN
+F 3 "~" H 5950 4450 50  0001 C CNN
+	1    5950 4450
+	0    1    1    0   
+$EndComp
+$Comp
+L Device:R_Small R?
+U 1 1 60D64897
+P 6100 3600
+AR Path="/60D64897" Ref="R?"  Part="1" 
+AR Path="/60D5C75A/60D64897" Ref="R203"  Part="1" 
+AR Path="/60D74D69/60D64897" Ref="R303"  Part="1" 
+AR Path="/60D75D44/60D64897" Ref="R?"  Part="1" 
+AR Path="/60D77191/60D64897" Ref="R403"  Part="1" 
+AR Path="/60D781FC/60D64897" Ref="R503"  Part="1" 
+AR Path="/60D79270/60D64897" Ref="R603"  Part="1" 
+AR Path="/60D7A254/60D64897" Ref="R703"  Part="1" 
+F 0 "R203" H 6159 3554 50  0000 L CNN
+F 1 "10k" H 6159 3645 50  0000 L CNN
+F 2 "Resistor_SMD:R_0402_1005Metric" H 6100 3600 50  0001 C CNN
+F 3 "~" H 6100 3600 50  0001 C CNN
+	1    6100 3600
+	-1   0    0    1   
+$EndComp
+Wire Wire Line
+	6050 3450 6100 3450
+Wire Wire Line
+	6100 3450 6100 3500
+Connection ~ 6100 3450
+$Comp
+L power:GND #PWR?
+U 1 1 60D648A0
+P 6100 3700
+AR Path="/60D648A0" Ref="#PWR?"  Part="1" 
+AR Path="/60D5C75A/60D648A0" Ref="#PWR0204"  Part="1" 
+AR Path="/60D74D69/60D648A0" Ref="#PWR0304"  Part="1" 
+AR Path="/60D75D44/60D648A0" Ref="#PWR?"  Part="1" 
+AR Path="/60D77191/60D648A0" Ref="#PWR0404"  Part="1" 
+AR Path="/60D781FC/60D648A0" Ref="#PWR0504"  Part="1" 
+AR Path="/60D79270/60D648A0" Ref="#PWR0604"  Part="1" 
+AR Path="/60D7A254/60D648A0" Ref="#PWR0704"  Part="1" 
+F 0 "#PWR0204" H 6100 3450 50  0001 C CNN
+F 1 "GND" H 6105 3527 50  0000 C CNN
+F 2 "" H 6100 3700 50  0001 C CNN
+F 3 "" H 6100 3700 50  0001 C CNN
+	1    6100 3700
+	1    0    0    -1  
+$EndComp
+Wire Wire Line
+	5850 3450 5600 3450
+$Comp
+L power:+24V #PWR?
+U 1 1 60D648A7
+P 5650 3200
+AR Path="/60D648A7" Ref="#PWR?"  Part="1" 
+AR Path="/60D5C75A/60D648A7" Ref="#PWR0201"  Part="1" 
+AR Path="/60D74D69/60D648A7" Ref="#PWR0301"  Part="1" 
+AR Path="/60D75D44/60D648A7" Ref="#PWR?"  Part="1" 
+AR Path="/60D77191/60D648A7" Ref="#PWR0401"  Part="1" 
+AR Path="/60D781FC/60D648A7" Ref="#PWR0501"  Part="1" 
+AR Path="/60D79270/60D648A7" Ref="#PWR0601"  Part="1" 
+AR Path="/60D7A254/60D648A7" Ref="#PWR0701"  Part="1" 
+F 0 "#PWR0201" H 5650 3050 50  0001 C CNN
+F 1 "+24V" H 5665 3373 50  0000 C CNN
+F 2 "" H 5650 3200 50  0001 C CNN
+F 3 "" H 5650 3200 50  0001 C CNN
+	1    5650 3200
+	1    0    0    -1  
+$EndComp
+Wire Wire Line
+	5650 3200 5650 3250
+Wire Wire Line
+	5650 3250 5600 3250
+$Comp
+L power:+24V #PWR?
+U 1 1 60D648AF
+P 5650 4200
+AR Path="/60D648AF" Ref="#PWR?"  Part="1" 
+AR Path="/60D5C75A/60D648AF" Ref="#PWR0205"  Part="1" 
+AR Path="/60D74D69/60D648AF" Ref="#PWR0305"  Part="1" 
+AR Path="/60D75D44/60D648AF" Ref="#PWR?"  Part="1" 
+AR Path="/60D77191/60D648AF" Ref="#PWR0405"  Part="1" 
+AR Path="/60D781FC/60D648AF" Ref="#PWR0505"  Part="1" 
+AR Path="/60D79270/60D648AF" Ref="#PWR0605"  Part="1" 
+AR Path="/60D7A254/60D648AF" Ref="#PWR0705"  Part="1" 
+F 0 "#PWR0205" H 5650 4050 50  0001 C CNN
+F 1 "+24V" H 5665 4373 50  0000 C CNN
+F 2 "" H 5650 4200 50  0001 C CNN
+F 3 "" H 5650 4200 50  0001 C CNN
+	1    5650 4200
+	1    0    0    -1  
+$EndComp
+Wire Wire Line
+	5650 4200 5650 4250
+Wire Wire Line
+	5650 4250 5600 4250
+$Comp
+L Device:R_Small R?
+U 1 1 60D648B7
+P 6100 4600
+AR Path="/60D648B7" Ref="R?"  Part="1" 
+AR Path="/60D5C75A/60D648B7" Ref="R206"  Part="1" 
+AR Path="/60D74D69/60D648B7" Ref="R306"  Part="1" 
+AR Path="/60D75D44/60D648B7" Ref="R?"  Part="1" 
+AR Path="/60D77191/60D648B7" Ref="R406"  Part="1" 
+AR Path="/60D781FC/60D648B7" Ref="R506"  Part="1" 
+AR Path="/60D79270/60D648B7" Ref="R606"  Part="1" 
+AR Path="/60D7A254/60D648B7" Ref="R706"  Part="1" 
+F 0 "R206" H 6159 4554 50  0000 L CNN
+F 1 "10k" H 6159 4645 50  0000 L CNN
+F 2 "Resistor_SMD:R_0402_1005Metric" H 6100 4600 50  0001 C CNN
+F 3 "~" H 6100 4600 50  0001 C CNN
+	1    6100 4600
+	-1   0    0    1   
+$EndComp
+$Comp
+L power:GND #PWR?
+U 1 1 60D648BD
+P 6100 4700
+AR Path="/60D648BD" Ref="#PWR?"  Part="1" 
+AR Path="/60D5C75A/60D648BD" Ref="#PWR0208"  Part="1" 
+AR Path="/60D74D69/60D648BD" Ref="#PWR0308"  Part="1" 
+AR Path="/60D75D44/60D648BD" Ref="#PWR?"  Part="1" 
+AR Path="/60D77191/60D648BD" Ref="#PWR0408"  Part="1" 
+AR Path="/60D781FC/60D648BD" Ref="#PWR0508"  Part="1" 
+AR Path="/60D79270/60D648BD" Ref="#PWR0608"  Part="1" 
+AR Path="/60D7A254/60D648BD" Ref="#PWR0708"  Part="1" 
+F 0 "#PWR0208" H 6100 4450 50  0001 C CNN
+F 1 "GND" H 6105 4527 50  0000 C CNN
+F 2 "" H 6100 4700 50  0001 C CNN
+F 3 "" H 6100 4700 50  0001 C CNN
+	1    6100 4700
+	1    0    0    -1  
+$EndComp
+Wire Wire Line
+	5850 4450 5600 4450
+Wire Wire Line
+	6100 4500 6100 4450
+Wire Wire Line
+	6050 4450 6100 4450
+Connection ~ 6100 4450
+$Comp
+L power:GNDD #PWR?
+U 1 1 60D648C7
+P 5000 4450
+AR Path="/60D648C7" Ref="#PWR?"  Part="1" 
+AR Path="/60D5C75A/60D648C7" Ref="#PWR0207"  Part="1" 
+AR Path="/60D74D69/60D648C7" Ref="#PWR0307"  Part="1" 
+AR Path="/60D75D44/60D648C7" Ref="#PWR?"  Part="1" 
+AR Path="/60D77191/60D648C7" Ref="#PWR0407"  Part="1" 
+AR Path="/60D781FC/60D648C7" Ref="#PWR0507"  Part="1" 
+AR Path="/60D79270/60D648C7" Ref="#PWR0607"  Part="1" 
+AR Path="/60D7A254/60D648C7" Ref="#PWR0707"  Part="1" 
+F 0 "#PWR0207" H 5000 4200 50  0001 C CNN
+F 1 "GNDD" H 5004 4295 50  0000 C CNN
+F 2 "" H 5000 4450 50  0001 C CNN
+F 3 "" H 5000 4450 50  0001 C CNN
+	1    5000 4450
+	1    0    0    -1  
+$EndComp
+$Comp
+L Device:R_Small R?
+U 1 1 60D648CD
+P 4900 4250
+AR Path="/60D648CD" Ref="R?"  Part="1" 
+AR Path="/60D5C75A/60D648CD" Ref="R204"  Part="1" 
+AR Path="/60D74D69/60D648CD" Ref="R304"  Part="1" 
+AR Path="/60D75D44/60D648CD" Ref="R?"  Part="1" 
+AR Path="/60D77191/60D648CD" Ref="R404"  Part="1" 
+AR Path="/60D781FC/60D648CD" Ref="R504"  Part="1" 
+AR Path="/60D79270/60D648CD" Ref="R604"  Part="1" 
+AR Path="/60D7A254/60D648CD" Ref="R704"  Part="1" 
+F 0 "R204" V 5096 4250 50  0000 C CNN
+F 1 "120" V 5005 4250 50  0000 C CNN
+F 2 "Resistor_SMD:R_0402_1005Metric" H 4900 4250 50  0001 C CNN
+F 3 "~" H 4900 4250 50  0001 C CNN
+	1    4900 4250
+	0    -1   -1   0   
+$EndComp
+$Comp
+L Device:R_Small R?
+U 1 1 60D648D3
+P 4900 3250
+AR Path="/60D648D3" Ref="R?"  Part="1" 
+AR Path="/60D5C75A/60D648D3" Ref="R201"  Part="1" 
+AR Path="/60D74D69/60D648D3" Ref="R301"  Part="1" 
+AR Path="/60D75D44/60D648D3" Ref="R?"  Part="1" 
+AR Path="/60D77191/60D648D3" Ref="R401"  Part="1" 
+AR Path="/60D781FC/60D648D3" Ref="R501"  Part="1" 
+AR Path="/60D79270/60D648D3" Ref="R601"  Part="1" 
+AR Path="/60D7A254/60D648D3" Ref="R701"  Part="1" 
+F 0 "R201" V 5096 3250 50  0000 C CNN
+F 1 "120" V 5005 3250 50  0000 C CNN
+F 2 "Resistor_SMD:R_0402_1005Metric" H 4900 3250 50  0001 C CNN
+F 3 "~" H 4900 3250 50  0001 C CNN
+	1    4900 3250
+	0    -1   -1   0   
+$EndComp
+$Comp
+L power:GNDD #PWR?
+U 1 1 60D648D9
+P 5000 3450
+AR Path="/60D648D9" Ref="#PWR?"  Part="1" 
+AR Path="/60D5C75A/60D648D9" Ref="#PWR0203"  Part="1" 
+AR Path="/60D74D69/60D648D9" Ref="#PWR0303"  Part="1" 
+AR Path="/60D75D44/60D648D9" Ref="#PWR?"  Part="1" 
+AR Path="/60D77191/60D648D9" Ref="#PWR0403"  Part="1" 
+AR Path="/60D781FC/60D648D9" Ref="#PWR0503"  Part="1" 
+AR Path="/60D79270/60D648D9" Ref="#PWR0603"  Part="1" 
+AR Path="/60D7A254/60D648D9" Ref="#PWR0703"  Part="1" 
+F 0 "#PWR0203" H 5000 3200 50  0001 C CNN
+F 1 "GNDD" H 5004 3295 50  0000 C CNN
+F 2 "" H 5000 3450 50  0001 C CNN
+F 3 "" H 5000 3450 50  0001 C CNN
+	1    5000 3450
+	1    0    0    -1  
+$EndComp
+Wire Wire Line
+	6400 3650 6400 3700
+Wire Wire Line
+	6400 3700 6500 3700
+Wire Wire Line
+	6500 3650 6500 3700
+Connection ~ 6500 3700
+Wire Wire Line
+	6400 4650 6400 4700
+Wire Wire Line
+	6400 4700 6500 4700
+Wire Wire Line
+	6500 4700 6500 4650
+Connection ~ 6500 4700
+Wire Notes Line
+	4400 4950 7000 4950
+Wire Notes Line
+	7000 2950 4400 2950
+Text HLabel 4400 4250 0    50   Input ~ 0
+In1
+Wire Wire Line
+	4400 3250 4800 3250
+Text HLabel 4400 3250 0    50   Input ~ 0
+In2
+Wire Wire Line
+	4400 4250 4800 4250
+Text HLabel 7000 4700 2    50   Output ~ 0
+Out1
+Wire Wire Line
+	6500 3700 7000 3700
+Text HLabel 7000 3700 2    50   Output ~ 0
+Out2
+Wire Wire Line
+	6500 4700 7000 4700
+Wire Notes Line
+	4400 3950 7000 3950
+Wire Notes Line
+	7000 2950 7000 4950
+Wire Notes Line
+	4400 2950 4400 4950
+$EndSCHEMATC

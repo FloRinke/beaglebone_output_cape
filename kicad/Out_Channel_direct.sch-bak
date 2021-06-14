@@ -1,0 +1,310 @@
+EESchema Schematic File Version 4
+EELAYER 30 0
+EELAYER END
+$Descr A4 11693 8268
+encoding utf-8
+Sheet 2 17
+Title "BeagleBoneOutputCape"
+Date "2021-06-14"
+Rev "1"
+Comp "Florian Rinke"
+Comment1 "pcb.florianrinke.de/pcb/bboutputcape"
+Comment2 "Attribution-NonCommercial-ShareAlike 4.0 International"
+Comment3 "http://creativecommons.org/licenses/by-nc-sa/4.0/"
+Comment4 ""
+$EndDescr
+$Comp
+L Transistor_FET:2N7002 Q?
+U 1 1 60D6486C
+P 6300 3450
+AR Path="/60D6486C" Ref="Q?"  Part="1" 
+AR Path="/60D5C75A/60D6486C" Ref="Q201"  Part="1" 
+AR Path="/60D74D69/60D6486C" Ref="Q?"  Part="1" 
+AR Path="/60D75D44/60D6486C" Ref="Q?"  Part="1" 
+AR Path="/60D77191/60D6486C" Ref="Q?"  Part="1" 
+AR Path="/60D781FC/60D6486C" Ref="Q?"  Part="1" 
+AR Path="/60D79270/60D6486C" Ref="Q?"  Part="1" 
+AR Path="/60D7A254/60D6486C" Ref="Q?"  Part="1" 
+AR Path="/60C6B35F/60D6486C" Ref="Q301"  Part="1" 
+AR Path="/60C6C244/60D6486C" Ref="Q401"  Part="1" 
+AR Path="/60C6D129/60D6486C" Ref="Q501"  Part="1" 
+AR Path="/60C6DFE1/60D6486C" Ref="Q601"  Part="1" 
+AR Path="/60C6EEA8/60D6486C" Ref="Q701"  Part="1" 
+AR Path="/60C6FD8A/60D6486C" Ref="Q801"  Part="1" 
+AR Path="/60C70C2A/60D6486C" Ref="Q901"  Part="1" 
+AR Path="/60C71B00/60D6486C" Ref="Q1001"  Part="1" 
+AR Path="/60C729CD/60D6486C" Ref="Q1101"  Part="1" 
+AR Path="/60C73870/60D6486C" Ref="Q1201"  Part="1" 
+AR Path="/60C74746/60D6486C" Ref="Q1301"  Part="1" 
+AR Path="/60CB4D84/60D6486C" Ref="Q1401"  Part="1" 
+AR Path="/60CB63C5/60D6486C" Ref="Q1501"  Part="1" 
+AR Path="/60CB7A97/60D6486C" Ref="Q1601"  Part="1" 
+AR Path="/60CB90EC/60D6486C" Ref="Q1701"  Part="1" 
+F 0 "Q1701" H 6588 3496 50  0000 L CNN
+F 1 "2N7002" H 6588 3405 50  0000 L CNN
+F 2 "Package_TO_SOT_SMD:SOT-23" H 6350 3450 50  0001 C CNN
+F 3 "https://www.onsemi.com/pub/Collateral/NDS7002A-D.PDF" H 6350 3450 50  0001 C CNN
+F 4 "C8545" H 6300 3450 50  0001 C CNN "LCSC"
+	1    6300 3450
+	1    0    0    -1  
+$EndComp
+$Comp
+L Device:R_Small R?
+U 1 1 60D64897
+P 6100 3600
+AR Path="/60D64897" Ref="R?"  Part="1" 
+AR Path="/60D5C75A/60D64897" Ref="R202"  Part="1" 
+AR Path="/60D74D69/60D64897" Ref="R?"  Part="1" 
+AR Path="/60D75D44/60D64897" Ref="R?"  Part="1" 
+AR Path="/60D77191/60D64897" Ref="R?"  Part="1" 
+AR Path="/60D781FC/60D64897" Ref="R?"  Part="1" 
+AR Path="/60D79270/60D64897" Ref="R?"  Part="1" 
+AR Path="/60D7A254/60D64897" Ref="R?"  Part="1" 
+AR Path="/60C6B35F/60D64897" Ref="R302"  Part="1" 
+AR Path="/60C6C244/60D64897" Ref="R402"  Part="1" 
+AR Path="/60C6D129/60D64897" Ref="R502"  Part="1" 
+AR Path="/60C6DFE1/60D64897" Ref="R602"  Part="1" 
+AR Path="/60C6EEA8/60D64897" Ref="R702"  Part="1" 
+AR Path="/60C6FD8A/60D64897" Ref="R802"  Part="1" 
+AR Path="/60C70C2A/60D64897" Ref="R902"  Part="1" 
+AR Path="/60C71B00/60D64897" Ref="R1002"  Part="1" 
+AR Path="/60C729CD/60D64897" Ref="R1102"  Part="1" 
+AR Path="/60C73870/60D64897" Ref="R1202"  Part="1" 
+AR Path="/60C74746/60D64897" Ref="R1302"  Part="1" 
+AR Path="/60CB4D84/60D64897" Ref="R1402"  Part="1" 
+AR Path="/60CB63C5/60D64897" Ref="R1502"  Part="1" 
+AR Path="/60CB7A97/60D64897" Ref="R1602"  Part="1" 
+AR Path="/60CB90EC/60D64897" Ref="R1702"  Part="1" 
+F 0 "R1702" H 6159 3554 50  0000 L CNN
+F 1 "47k" H 6159 3645 50  0000 L CNN
+F 2 "Resistor_SMD:R_0402_1005Metric" H 6100 3600 50  0001 C CNN
+F 3 "https://datasheet.lcsc.com/lcsc/1809101632_UNI-ROYAL-Uniroyal-Elec-0402WGF4702TCE_C25792.pdf" H 6100 3600 50  0001 C CNN
+F 4 "C25792" H 6100 3600 50  0001 C CNN "LCSC"
+	1    6100 3600
+	-1   0    0    1   
+$EndComp
+Wire Wire Line
+	6050 3450 6100 3450
+Wire Wire Line
+	6100 3450 6100 3500
+Connection ~ 6100 3450
+$Comp
+L Device:R_Small R?
+U 1 1 60D648D3
+P 5950 3450
+AR Path="/60D648D3" Ref="R?"  Part="1" 
+AR Path="/60D5C75A/60D648D3" Ref="R201"  Part="1" 
+AR Path="/60D74D69/60D648D3" Ref="R?"  Part="1" 
+AR Path="/60D75D44/60D648D3" Ref="R?"  Part="1" 
+AR Path="/60D77191/60D648D3" Ref="R?"  Part="1" 
+AR Path="/60D781FC/60D648D3" Ref="R?"  Part="1" 
+AR Path="/60D79270/60D648D3" Ref="R?"  Part="1" 
+AR Path="/60D7A254/60D648D3" Ref="R?"  Part="1" 
+AR Path="/60C6B35F/60D648D3" Ref="R301"  Part="1" 
+AR Path="/60C6C244/60D648D3" Ref="R401"  Part="1" 
+AR Path="/60C6D129/60D648D3" Ref="R501"  Part="1" 
+AR Path="/60C6DFE1/60D648D3" Ref="R601"  Part="1" 
+AR Path="/60C6EEA8/60D648D3" Ref="R701"  Part="1" 
+AR Path="/60C6FD8A/60D648D3" Ref="R801"  Part="1" 
+AR Path="/60C70C2A/60D648D3" Ref="R901"  Part="1" 
+AR Path="/60C71B00/60D648D3" Ref="R1001"  Part="1" 
+AR Path="/60C729CD/60D648D3" Ref="R1101"  Part="1" 
+AR Path="/60C73870/60D648D3" Ref="R1201"  Part="1" 
+AR Path="/60C74746/60D648D3" Ref="R1301"  Part="1" 
+AR Path="/60CB4D84/60D648D3" Ref="R1401"  Part="1" 
+AR Path="/60CB63C5/60D648D3" Ref="R1501"  Part="1" 
+AR Path="/60CB7A97/60D648D3" Ref="R1601"  Part="1" 
+AR Path="/60CB90EC/60D648D3" Ref="R1701"  Part="1" 
+F 0 "R1701" V 6146 3450 50  0000 C CNN
+F 1 "120" V 6055 3450 50  0000 C CNN
+F 2 "Resistor_SMD:R_0402_1005Metric" H 5950 3450 50  0001 C CNN
+F 3 "https://datasheet.lcsc.com/szlcsc/Uniroyal-Elec-0402WGF499JTCE_C25120.pdf" H 5950 3450 50  0001 C CNN
+F 4 "C25120" V 5950 3450 50  0001 C CNN "LCSC"
+	1    5950 3450
+	0    -1   -1   0   
+$EndComp
+$Comp
+L power:GNDD #PWR?
+U 1 1 60D648D9
+P 6100 3700
+AR Path="/60D648D9" Ref="#PWR?"  Part="1" 
+AR Path="/60D5C75A/60D648D9" Ref="#PWR0201"  Part="1" 
+AR Path="/60D74D69/60D648D9" Ref="#PWR?"  Part="1" 
+AR Path="/60D75D44/60D648D9" Ref="#PWR?"  Part="1" 
+AR Path="/60D77191/60D648D9" Ref="#PWR?"  Part="1" 
+AR Path="/60D781FC/60D648D9" Ref="#PWR?"  Part="1" 
+AR Path="/60D79270/60D648D9" Ref="#PWR?"  Part="1" 
+AR Path="/60D7A254/60D648D9" Ref="#PWR?"  Part="1" 
+AR Path="/60C6B35F/60D648D9" Ref="#PWR0301"  Part="1" 
+AR Path="/60C6C244/60D648D9" Ref="#PWR0401"  Part="1" 
+AR Path="/60C6D129/60D648D9" Ref="#PWR0501"  Part="1" 
+AR Path="/60C6DFE1/60D648D9" Ref="#PWR0601"  Part="1" 
+AR Path="/60C6EEA8/60D648D9" Ref="#PWR0701"  Part="1" 
+AR Path="/60C6FD8A/60D648D9" Ref="#PWR0801"  Part="1" 
+AR Path="/60C70C2A/60D648D9" Ref="#PWR0901"  Part="1" 
+AR Path="/60C71B00/60D648D9" Ref="#PWR01001"  Part="1" 
+AR Path="/60C729CD/60D648D9" Ref="#PWR01101"  Part="1" 
+AR Path="/60C73870/60D648D9" Ref="#PWR01201"  Part="1" 
+AR Path="/60C74746/60D648D9" Ref="#PWR01301"  Part="1" 
+AR Path="/60CB4D84/60D648D9" Ref="#PWR01401"  Part="1" 
+AR Path="/60CB63C5/60D648D9" Ref="#PWR01501"  Part="1" 
+AR Path="/60CB7A97/60D648D9" Ref="#PWR01601"  Part="1" 
+AR Path="/60CB90EC/60D648D9" Ref="#PWR01701"  Part="1" 
+F 0 "#PWR01701" H 6100 3450 50  0001 C CNN
+F 1 "GNDD" H 6104 3545 50  0000 C CNN
+F 2 "" H 6100 3700 50  0001 C CNN
+F 3 "" H 6100 3700 50  0001 C CNN
+	1    6100 3700
+	1    0    0    -1  
+$EndComp
+Wire Wire Line
+	6400 3650 6400 3700
+Wire Notes Line
+	7000 2950 5450 2950
+Text HLabel 5450 3450 0    50   Input ~ 0
+In
+Text HLabel 7000 3200 2    50   Output ~ 0
+Out
+Wire Notes Line
+	5450 4050 7000 4050
+Wire Wire Line
+	6400 3200 7000 3200
+Wire Notes Line
+	5450 2950 5450 4050
+Wire Notes Line
+	7000 4050 7000 2950
+Wire Wire Line
+	6400 3200 6400 3250
+$Comp
+L power:GNDD #PWR?
+U 1 1 60C67646
+P 6400 3700
+AR Path="/60C67646" Ref="#PWR?"  Part="1" 
+AR Path="/60D5C75A/60C67646" Ref="#PWR0202"  Part="1" 
+AR Path="/60D74D69/60C67646" Ref="#PWR?"  Part="1" 
+AR Path="/60D75D44/60C67646" Ref="#PWR?"  Part="1" 
+AR Path="/60D77191/60C67646" Ref="#PWR?"  Part="1" 
+AR Path="/60D781FC/60C67646" Ref="#PWR?"  Part="1" 
+AR Path="/60D79270/60C67646" Ref="#PWR?"  Part="1" 
+AR Path="/60D7A254/60C67646" Ref="#PWR?"  Part="1" 
+AR Path="/60C6B35F/60C67646" Ref="#PWR0302"  Part="1" 
+AR Path="/60C6C244/60C67646" Ref="#PWR0402"  Part="1" 
+AR Path="/60C6D129/60C67646" Ref="#PWR0502"  Part="1" 
+AR Path="/60C6DFE1/60C67646" Ref="#PWR0602"  Part="1" 
+AR Path="/60C6EEA8/60C67646" Ref="#PWR0702"  Part="1" 
+AR Path="/60C6FD8A/60C67646" Ref="#PWR0802"  Part="1" 
+AR Path="/60C70C2A/60C67646" Ref="#PWR0902"  Part="1" 
+AR Path="/60C71B00/60C67646" Ref="#PWR01002"  Part="1" 
+AR Path="/60C729CD/60C67646" Ref="#PWR01102"  Part="1" 
+AR Path="/60C73870/60C67646" Ref="#PWR01202"  Part="1" 
+AR Path="/60C74746/60C67646" Ref="#PWR01302"  Part="1" 
+AR Path="/60CB4D84/60C67646" Ref="#PWR01402"  Part="1" 
+AR Path="/60CB63C5/60C67646" Ref="#PWR01502"  Part="1" 
+AR Path="/60CB7A97/60C67646" Ref="#PWR01602"  Part="1" 
+AR Path="/60CB90EC/60C67646" Ref="#PWR01702"  Part="1" 
+F 0 "#PWR01702" H 6400 3450 50  0001 C CNN
+F 1 "GNDD" H 6404 3545 50  0000 C CNN
+F 2 "" H 6400 3700 50  0001 C CNN
+F 3 "" H 6400 3700 50  0001 C CNN
+	1    6400 3700
+	1    0    0    -1  
+$EndComp
+$Comp
+L Device:LED_Small D201
+U 1 1 60D8582A
+P 5700 3850
+AR Path="/60D5C75A/60D8582A" Ref="D201"  Part="1" 
+AR Path="/60C6B35F/60D8582A" Ref="D301"  Part="1" 
+AR Path="/60C6C244/60D8582A" Ref="D401"  Part="1" 
+AR Path="/60C6D129/60D8582A" Ref="D501"  Part="1" 
+AR Path="/60C6DFE1/60D8582A" Ref="D601"  Part="1" 
+AR Path="/60C6EEA8/60D8582A" Ref="D701"  Part="1" 
+AR Path="/60C6FD8A/60D8582A" Ref="D801"  Part="1" 
+AR Path="/60C70C2A/60D8582A" Ref="D901"  Part="1" 
+AR Path="/60C71B00/60D8582A" Ref="D1001"  Part="1" 
+AR Path="/60C729CD/60D8582A" Ref="D1101"  Part="1" 
+AR Path="/60C73870/60D8582A" Ref="D1201"  Part="1" 
+AR Path="/60C74746/60D8582A" Ref="D1301"  Part="1" 
+AR Path="/60CB4D84/60D8582A" Ref="D1401"  Part="1" 
+AR Path="/60CB63C5/60D8582A" Ref="D1501"  Part="1" 
+AR Path="/60CB7A97/60D8582A" Ref="D1601"  Part="1" 
+AR Path="/60CB90EC/60D8582A" Ref="D1701"  Part="1" 
+F 0 "D1701" V 5746 3780 50  0000 R CNN
+F 1 "LED" V 5655 3780 50  0000 R CNN
+F 2 "LED_SMD:LED_0603_1608Metric" H 5700 3850 50  0001 C CNN
+F 3 "https://datasheet.lcsc.com/lcsc/1811101510_Everlight-Elec-19-217-GHC-YR1S2-3T_C72043.pdf" H 5700 3850 50  0001 C CNN
+F 4 "C72043" H 5700 3850 50  0001 C CNN "LCSC"
+	1    5700 3850
+	0    -1   -1   0   
+$EndComp
+$Comp
+L power:GNDD #PWR?
+U 1 1 60D861CE
+P 5700 3950
+AR Path="/60D861CE" Ref="#PWR?"  Part="1" 
+AR Path="/60D5C75A/60D861CE" Ref="#PWR0203"  Part="1" 
+AR Path="/60D74D69/60D861CE" Ref="#PWR?"  Part="1" 
+AR Path="/60D75D44/60D861CE" Ref="#PWR?"  Part="1" 
+AR Path="/60D77191/60D861CE" Ref="#PWR?"  Part="1" 
+AR Path="/60D781FC/60D861CE" Ref="#PWR?"  Part="1" 
+AR Path="/60D79270/60D861CE" Ref="#PWR?"  Part="1" 
+AR Path="/60D7A254/60D861CE" Ref="#PWR?"  Part="1" 
+AR Path="/60C6B35F/60D861CE" Ref="#PWR0303"  Part="1" 
+AR Path="/60C6C244/60D861CE" Ref="#PWR0403"  Part="1" 
+AR Path="/60C6D129/60D861CE" Ref="#PWR0503"  Part="1" 
+AR Path="/60C6DFE1/60D861CE" Ref="#PWR0603"  Part="1" 
+AR Path="/60C6EEA8/60D861CE" Ref="#PWR0703"  Part="1" 
+AR Path="/60C6FD8A/60D861CE" Ref="#PWR0803"  Part="1" 
+AR Path="/60C70C2A/60D861CE" Ref="#PWR0903"  Part="1" 
+AR Path="/60C71B00/60D861CE" Ref="#PWR01003"  Part="1" 
+AR Path="/60C729CD/60D861CE" Ref="#PWR01103"  Part="1" 
+AR Path="/60C73870/60D861CE" Ref="#PWR01203"  Part="1" 
+AR Path="/60C74746/60D861CE" Ref="#PWR01303"  Part="1" 
+AR Path="/60CB4D84/60D861CE" Ref="#PWR01403"  Part="1" 
+AR Path="/60CB63C5/60D861CE" Ref="#PWR01503"  Part="1" 
+AR Path="/60CB7A97/60D861CE" Ref="#PWR01603"  Part="1" 
+AR Path="/60CB90EC/60D861CE" Ref="#PWR01703"  Part="1" 
+F 0 "#PWR01703" H 5700 3700 50  0001 C CNN
+F 1 "GNDD" H 5704 3795 50  0000 C CNN
+F 2 "" H 5700 3950 50  0001 C CNN
+F 3 "" H 5700 3950 50  0001 C CNN
+	1    5700 3950
+	1    0    0    -1  
+$EndComp
+$Comp
+L Device:R_Small R?
+U 1 1 60D8BF21
+P 5700 3650
+AR Path="/60D8BF21" Ref="R?"  Part="1" 
+AR Path="/60D5C75A/60D8BF21" Ref="R203"  Part="1" 
+AR Path="/60C6B35F/60D8BF21" Ref="R303"  Part="1" 
+AR Path="/60C6C244/60D8BF21" Ref="R403"  Part="1" 
+AR Path="/60C6D129/60D8BF21" Ref="R503"  Part="1" 
+AR Path="/60C6DFE1/60D8BF21" Ref="R603"  Part="1" 
+AR Path="/60C6EEA8/60D8BF21" Ref="R703"  Part="1" 
+AR Path="/60C6FD8A/60D8BF21" Ref="R803"  Part="1" 
+AR Path="/60C70C2A/60D8BF21" Ref="R903"  Part="1" 
+AR Path="/60C71B00/60D8BF21" Ref="R1003"  Part="1" 
+AR Path="/60C729CD/60D8BF21" Ref="R1103"  Part="1" 
+AR Path="/60C73870/60D8BF21" Ref="R1203"  Part="1" 
+AR Path="/60C74746/60D8BF21" Ref="R1303"  Part="1" 
+AR Path="/60CB4D84/60D8BF21" Ref="R1403"  Part="1" 
+AR Path="/60CB63C5/60D8BF21" Ref="R1503"  Part="1" 
+AR Path="/60CB7A97/60D8BF21" Ref="R1603"  Part="1" 
+AR Path="/60CB90EC/60D8BF21" Ref="R1703"  Part="1" 
+F 0 "R1703" H 5642 3696 50  0000 R CNN
+F 1 "5.6k" H 5642 3605 50  0000 R CNN
+F 2 "Resistor_SMD:R_0402_1005Metric" H 5700 3650 50  0001 C CNN
+F 3 "https://datasheet.lcsc.com/lcsc/1810301112_UNI-ROYAL-Uniroyal-Elec-0402WGF5601TCE_C25908.pdf" H 5700 3650 50  0001 C CNN
+F 4 "C25908" H 5700 3650 50  0001 C CNN "LCSC"
+	1    5700 3650
+	1    0    0    -1  
+$EndComp
+Wire Wire Line
+	5450 3450 5700 3450
+Wire Wire Line
+	5700 3550 5700 3450
+Connection ~ 5700 3450
+Wire Wire Line
+	5700 3450 5850 3450
+$EndSCHEMATC
