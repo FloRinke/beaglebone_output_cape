@@ -250,24 +250,24 @@ F 3 "" H 9850 5650 50  0001 C CNN
 	1    0    0    -1  
 $EndComp
 $Comp
-L Device:Jumper_NO_Small JP103
+L Jumper:SolderJumper_2_Open JP103
 U 1 1 60C83D17
 P 8250 6050
 F 0 "JP103" H 8250 5957 50  0000 C CNN
 F 1 "A2" H 8250 5866 50  0000 C CNN
-F 2 "Connector_PinHeader_1.27mm:PinHeader_2x01_P1.27mm_Vertical_SMD" H 8250 6050 50  0001 C CNN
+F 2 "Jumper:SolderJumper-2_P1.3mm_Open_TrianglePad1.0x1.5mm" H 8250 6050 50  0001 C CNN
 F 3 "~" H 8250 6050 50  0001 C CNN
 F 4 "0" H 8250 6050 50  0001 C CNN "JLCPCB BOM"
 	1    8250 6050
 	1    0    0    -1  
 $EndComp
 $Comp
-L Device:Jumper_NO_Small JP102
+L Jumper:SolderJumper_2_Open JP102
 U 1 1 60C84177
 P 8250 5950
 F 0 "JP102" H 8250 6135 50  0000 C CNN
 F 1 "A1" H 8250 6044 50  0000 C CNN
-F 2 "Connector_PinHeader_1.27mm:PinHeader_2x01_P1.27mm_Vertical_SMD" H 8250 5950 50  0001 C CNN
+F 2 "Jumper:SolderJumper-2_P1.3mm_Open_TrianglePad1.0x1.5mm" H 8250 5950 50  0001 C CNN
 F 3 "~" H 8250 5950 50  0001 C CNN
 F 4 "0" H 8250 5950 50  0001 C CNN "JLCPCB BOM"
 	1    8250 5950
@@ -349,11 +349,8 @@ Wire Wire Line
 Wire Wire Line
 	8850 5950 8850 5900
 Wire Wire Line
-	8700 6050 8350 6050
+	8700 6050 8400 6050
 Connection ~ 8700 6050
-Wire Wire Line
-	8850 5950 8350 5950
-Connection ~ 8850 5950
 $Comp
 L Device:R_Small R108
 U 1 1 60C7C170
@@ -380,9 +377,7 @@ $EndComp
 Wire Wire Line
 	8050 6100 8050 6050
 Wire Wire Line
-	8050 6050 8150 6050
-Wire Wire Line
-	8150 5950 8050 5950
+	8050 6050 8100 6050
 Wire Wire Line
 	8050 5950 8050 6050
 Connection ~ 8050 6050
@@ -1483,4 +1478,9 @@ F 3 "~" H 4850 2300 50  0001 C CNN
 	1    4850 2300
 	0    -1   -1   0   
 $EndComp
+Wire Wire Line
+	8850 5950 8400 5950
+Connection ~ 8850 5950
+Wire Wire Line
+	8100 5950 8050 5950
 $EndSCHEMATC
